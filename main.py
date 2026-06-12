@@ -5,21 +5,6 @@ Sezzle AI Customer Support Bot (FastAPI)
 """
 
 from fastapi import FastAPI, Form
-from fastapi.middleware.cors import CORSMiddleware
-
-app = FastAPI(
-    title="Sezzle AI Support Bot",
-    version="1.0"
-)
-
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["http://localhost:5173"],
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
-
 from fastapi.responses import HTMLResponse
 from dotenv import load_dotenv
 from langchain_pinecone import PineconeVectorStore
@@ -31,6 +16,15 @@ from src.helper import download_embeddings
 from src.prompt import PROMPT
 
 import os
+
+# ==================================================
+# App
+# ==================================================
+
+app = FastAPI(
+    title="Sezzle AI Support Bot",
+    version="1.0"
+)
 
 load_dotenv()
 
@@ -107,11 +101,11 @@ print("✅ Sezzle AI Support Bot Ready!")
 # Routes
 # ==================================================
 
-from fastapi.responses import FileResponse
-
 @app.get("/")
 async def home():
-    return FileResponse("templates/chat.html")
+    return {
+        "message": "Sezzle AI Support Bot Running"
+    }
 
 
 @app.get("/health")
@@ -121,15 +115,14 @@ async def health():
     }
 
 
-@app.post("/get")
-async def chat(msg: str = Form(...)):
-    print(f"\n👤 User: {msg}")
+@app.post("/chat")
+async def chat(message: str = Form(...)):
+    print(f"\n👤 User: {message}")
 
-    answer = qa_chain.invoke(msg)
+    answer = qa_chain.invoke(message)
 
     print(f"🤖 Bot: {answer}")
 
     return {
         "answer": answer
     }
-
