@@ -1,0 +1,3123 @@
+[
+  {
+    "title": "Sezzle Basics Sezzle products and services for you and your shoppers.",
+    "articles": [
+      {
+        "title": "Commonly asked questions for prospective merchants",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/17513899360404-Commonly-asked-questions-for-prospective-merchants",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Sezzle Basics",
+          "Sezzle Merchant Resources"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "If you're still unsure about signing up for Sezzle, here’s a quick one-pager of our most common inquiries from new merchants."
+          },
+          {
+            "type": "paragraph",
+            "text": "How do I sign up for Sezzle as a merchant?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Learn more about Sezzle for Merchants and start the application process at https://sezzle.com/merchants ."
+          },
+          {
+            "type": "paragraph",
+            "text": "How do I integrate Sezzle into my website?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Once your account has been approved, you’ll be sent an email with instructions to log in and get set up. If you lose that email or if you get stuck during the setup process, you can always log in to your account and select \"Setup Checklist,” which will walk you through how to add Sezzle to your E-commerce platform, add the Sezzle price breakdown widget, etc."
+          },
+          {
+            "type": "paragraph",
+            "text": "See How do I get Sezzle set up on my website?"
+          },
+          {
+            "type": "paragraph",
+            "text": "What platforms can I directly integrate Sezzle with?"
+          },
+          {
+            "type": "paragraph",
+            "text": "You can find the list of integrations here ."
+          },
+          {
+            "type": "paragraph",
+            "text": "How does the Sezzle price breakdown widget work? How does it look on product pages?"
+          },
+          {
+            "type": "paragraph",
+            "text": "The Sezzle widget breaks down the product price into installments and is one of the easiest and quickest ways to experience the immediate benefit of Sezzle!"
+          },
+          {
+            "type": "paragraph",
+            "text": "By displaying the low upfront cost to shoppers, you can enjoy significant benefits like:"
+          },
+          {
+            "type": "bullet",
+            "text": "Increasing sales by up to 50%"
+          },
+          {
+            "type": "bullet",
+            "text": "Boosting average order values by up to 30%"
+          },
+          {
+            "type": "bullet",
+            "text": "Improving the likelihood of checkout by 33%"
+          },
+          {
+            "type": "paragraph",
+            "text": "See How do I add widgets to my website?"
+          },
+          {
+            "type": "paragraph",
+            "text": "How do I link my bank account?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Once your website is set up to begin receiving orders, you will need to add a bank account to your merchant account to begin receiving payouts. To add a bank account, please follow the steps outlined in this help article: How do I set up a bank account to receive funds?"
+          },
+          {
+            "type": "paragraph",
+            "text": "When do I get paid?"
+          },
+          {
+            "type": "paragraph",
+            "text": "We transfer the funds from orders to your Sezzle account when orders are placed. The date those funds are sent to your bank account depends on your specific application – the most common settlement period is 3 business days. You can always clearly track the dates your settlements will occur within your dashboard on the \"Settlements\" tab."
+          },
+          {
+            "type": "paragraph",
+            "text": "See When do I receive the funds from an order?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Does the shopper pay me or pay Sezzle?"
+          },
+          {
+            "type": "paragraph",
+            "text": "When a shopper attempts an order, our system reviews a number of factors as part of our approvals process. Once the shopper’s order is approved, they pay Sezzle the down payment (usually 25%) and Sezzle pays you, the merchant, for the entire order less your merchant rate."
+          },
+          {
+            "type": "paragraph",
+            "text": "This allows Sezzle to assume all risk and manage repayment from the customer for the duration of their payment plan (usually 6 weeks)."
+          },
+          {
+            "type": "paragraph",
+            "text": "See What is Sezzle?"
+          },
+          {
+            "type": "paragraph",
+            "text": "What happens if shoppers don’t complete their Sezzle payments?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Shoppers are always allowed one free reschedule per order if needed and potentially more for a small fee. To ensure responsible spending, if shoppers fall behind on their payments, they will be prohibited from placing new orders. If they become delinquent, they are subject to having their account restricted and potentially sent to collections. This does not impact your payouts as Sezzle has already paid you in full upon processing the order."
+          },
+          {
+            "type": "paragraph",
+            "text": "Ready to sign up? Start the application process at https://sezzle.com/merchants ."
+          }
+        ]
+      },
+      {
+        "title": "What is Sezzle?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/360039835152-What-is-Sezzle",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Sezzle Basics",
+          "Sezzle Merchant Resources"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Sezzle is a payment method that increases sales and order volumes by enabling shoppers to \"Buy Now, Pay Later\" with simple, installment plans. We break down the total cost of an order into smaller, more manageable installments - most commonly, 4 equal payments, each two weeks apart.  Shoppers then pay a fraction of the order upfront, but the funds are transferred to your Sezzle account right away - so you never have to worry about how much shoppers have paid."
+          },
+          {
+            "type": "paragraph",
+            "text": "Shoppers are always told right away what their initial payment will be, as well as what amounts are due later on and when. Their installments are then automatically scheduled, so they don't need to worry about logging in and paying a bill before a due date. We cover all fraud and repayment risk, so you can process the order without any worries."
+          },
+          {
+            "type": "paragraph",
+            "text": "We're especially popular with younger users - shoppers 18 and older who might not have access to traditional lines of credit."
+          },
+          {
+            "type": "paragraph",
+            "text": "Sezzle can quickly and simply integrate into a variety of e-commerce platforms, like Shopify, WooCommerce, CommentSold, Wix, and more."
+          },
+          {
+            "type": "paragraph",
+            "text": "To learn more about how Sezzle works for merchants and to get signed up, click here!"
+          }
+        ]
+      },
+      {
+        "title": "Which E-Commerce platforms integrate with Sezzle?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/360039835172-Which-E-Commerce-platforms-integrate-with-Sezzle",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Sezzle Basics",
+          "Sezzle Merchant Resources"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Sezzle is currently available on the following platforms with more being added frequently:"
+          },
+          {
+            "type": "bullet",
+            "text": "Shopify"
+          },
+          {
+            "type": "bullet",
+            "text": "Shopify Plus"
+          },
+          {
+            "type": "bullet",
+            "text": "WooCommerce"
+          },
+          {
+            "type": "bullet",
+            "text": "BigCommerce"
+          },
+          {
+            "type": "bullet",
+            "text": "Aurus"
+          },
+          {
+            "type": "bullet",
+            "text": "Bold Cashier"
+          },
+          {
+            "type": "bullet",
+            "text": "Buy It Live"
+          },
+          {
+            "type": "bullet",
+            "text": "Cirkuit"
+          },
+          {
+            "type": "bullet",
+            "text": "CommerceV3 (CV3)"
+          },
+          {
+            "type": "bullet",
+            "text": "Lightspeed"
+          },
+          {
+            "type": "bullet",
+            "text": "Magento 1"
+          },
+          {
+            "type": "bullet",
+            "text": "Magento 2"
+          },
+          {
+            "type": "bullet",
+            "text": "Mojo"
+          },
+          {
+            "type": "bullet",
+            "text": "NopCommerce"
+          },
+          {
+            "type": "bullet",
+            "text": "Open Cart"
+          },
+          {
+            "type": "bullet",
+            "text": "Prestashop"
+          },
+          {
+            "type": "bullet",
+            "text": "PunchMark"
+          },
+          {
+            "type": "bullet",
+            "text": "Salesforce Commerce Cloud"
+          },
+          {
+            "type": "bullet",
+            "text": "Shift4Shop"
+          },
+          {
+            "type": "bullet",
+            "text": "Shoplazza"
+          },
+          {
+            "type": "bullet",
+            "text": "Shopware 5"
+          },
+          {
+            "type": "bullet",
+            "text": "TireConnect"
+          },
+          {
+            "type": "bullet",
+            "text": "TrueIMS"
+          },
+          {
+            "type": "bullet",
+            "text": "UltraCart"
+          },
+          {
+            "type": "bullet",
+            "text": "WIX"
+          },
+          {
+            "type": "bullet",
+            "text": "Workarea"
+          },
+          {
+            "type": "bullet",
+            "text": "Zoey"
+          },
+          {
+            "type": "paragraph",
+            "text": "Sezzle also has a public API for non-platform users. To access our API, merchants do need to still submit an application (which can be done here ) so the appropriate API keys can be generated."
+          },
+          {
+            "type": "paragraph",
+            "text": "We are not compatible with Facebook, GoDaddy, or Weebly at this time. If you're currently on one of those platforms but wish to offer Sezzle, we recommend looking into some of the platforms that we are compatible with to find one that best suits you! For information on how to set up Sezzle, please view Integrating with Sezzle."
+          }
+        ]
+      },
+      {
+        "title": "Does Sezzle work for in-store purchases?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/360040495071-Does-Sezzle-work-for-in-store-purchases",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Sezzle Basics",
+          "Sezzle Merchant Resources"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "For qualifying U.S. merchants, we offer the Sezzle Virtual Card as an in-store solution for your Sezzle shoppers."
+          },
+          {
+            "type": "paragraph",
+            "text": "What is the Sezzle Virtual Card?"
+          },
+          {
+            "type": "paragraph",
+            "text": "The Sezzle Virtual Card gives shoppers a new way to shop with select merchants while enjoying the benefits of buying now and paying later. Shoppers will need to download the Sezzle app in order to access their Sezzle Virtual card. Once they've signed in and the card has been issued, they will also need to add the card to their mobile wallet (Apple Pay or Google Pay only) as this will be how they check out with you in-store!"
+          },
+          {
+            "type": "paragraph",
+            "text": "Next, see How do I add in-store Sezzle Virtual Card availability?"
+          }
+        ]
+      },
+      {
+        "title": "How do I set up Sezzle for in-store purchases?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/13719687965204-How-do-I-set-up-Sezzle-for-in-store-purchases",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Sezzle Basics",
+          "Sezzle Merchant Resources"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "If you have any questions regarding our API, please reach out to our team here: Submit Merchant Help Request. Before starting the integration process, you will need to be an approved Sezzle merchant. Please visit our signup page if you don't have a Sezzle Merchant account already."
+          },
+          {
+            "type": "paragraph",
+            "text": "Follow the steps below to add Sezzle Virtual Card availability so shoppers can use Sezzle in your store:"
+          },
+          {
+            "type": "paragraph",
+            "text": "Participating merchants can sign up for the Sezzle Virtual Card to be enabled at their selected in-store locations and integrate Sezzle into their select locations. The steps include:"
+          },
+          {
+            "type": "number",
+            "number": 1,
+            "text": "Generate a Sezzle test card"
+          },
+          {
+            "type": "number",
+            "number": 2,
+            "text": "Add In-Store Location"
+          },
+          {
+            "type": "number",
+            "number": 3,
+            "text": "Run Test Transaction"
+          },
+          {
+            "type": "number",
+            "number": 4,
+            "text": "Connect Transaction to In-store Location"
+          },
+          {
+            "type": "paragraph",
+            "text": "Start by navigating to their dashboard “Settings” menu, and selecting “in-store,” which will take them to the following screen."
+          },
+          {
+            "type": "paragraph",
+            "text": "Once you click “start,” you will see the 4 easy steps to complete to set up your Sezzle Virtual Card Acceptance."
+          },
+          {
+            "type": "heading",
+            "level": "h3",
+            "text": "Step 1: Generate a Test Card"
+          },
+          {
+            "type": "heading",
+            "level": "h3",
+            "text": "Step 2: Add In-Store Location"
+          },
+          {
+            "type": "heading",
+            "level": "h3",
+            "text": "Step 3: Run Test Transaction"
+          },
+          {
+            "type": "paragraph",
+            "text": "The following three options will appear, and their corresponding messaging:"
+          },
+          {
+            "type": "paragraph",
+            "text": "(Note that we do not support Samsung Pay at this time.)"
+          },
+          {
+            "type": "heading",
+            "level": "h3",
+            "text": "Step 4: Connect Transaction to In-store Location"
+          }
+        ]
+      },
+      {
+        "title": "Can I send invoices for my business with Sezzle?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/360055909832-Can-I-send-invoices-for-my-business-with-Sezzle",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Sezzle Basics",
+          "Sezzle Merchant Resources"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Sezzle offers an invoicing solution best suited for small- to medium-sized merchants to manage within their Sezzle dashboard for in-store or phone purchases."
+          },
+          {
+            "type": "paragraph",
+            "text": "Contact us here to get started or see below to learn more."
+          },
+          {
+            "type": "paragraph",
+            "text": "How does it work?"
+          },
+          {
+            "type": "number",
+            "number": 1,
+            "text": "A shopper walks up to the checkout with the product(s) or calls to place an order with the merchant through Sezzle."
+          },
+          {
+            "type": "number",
+            "number": 2,
+            "text": "The merchant fills out an invoice via the Sezzle Merchant Dashboard."
+          },
+          {
+            "type": "number",
+            "number": 3,
+            "text": "The merchant sends the invoice via text, email, or QR code."
+          },
+          {
+            "type": "number",
+            "number": 4,
+            "text": "The shopper clicks the checkout link where they are then prompted to signup or log in to their Sezzle account."
+          },
+          {
+            "type": "number",
+            "number": 5,
+            "text": "The shopper will confirm their invoice purchase via the checkout link."
+          },
+          {
+            "type": "number",
+            "number": 6,
+            "text": "The merchant will receive a status change on the invoice page in the Merchant Dashboard from ‘unpaid’ to ‘paid’ once the shopper has completed their order."
+          },
+          {
+            "type": "number",
+            "number": 7,
+            "text": "The shopper then can leave the store with the product(s) (or await arrival for phone orders)."
+          },
+          {
+            "type": "paragraph",
+            "text": "Note: Any order placed via Invoice will not show in your e-commerce platform, but only your Sezzle Merchant Dashboard."
+          },
+          {
+            "type": "paragraph",
+            "text": "You can also check out a video for how to send an invoice below!"
+          },
+          {
+            "type": "heading",
+            "level": "h3",
+            "text": "Commonly Asked Questions"
+          },
+          {
+            "type": "paragraph",
+            "text": "Which merchants are eligible?"
+          },
+          {
+            "type": "paragraph",
+            "text": "This feature is best suited for small—to medium-sized merchants. You must be an approved Sezzle merchant with a linked bank account set up in either CAD or USD currency."
+          },
+          {
+            "type": "paragraph",
+            "text": "How do I get started, and how long does it take?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Contact us here , and we will enable this feature for you."
+          },
+          {
+            "type": "paragraph",
+            "text": "Is there an invoice minimum and/or maximum?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Yes, the maximum for all invoices is $2,500, including tax and shipping (in USD or CAD, depending on the merchant's currency)."
+          },
+          {
+            "type": "paragraph",
+            "text": "There is a USD $20 minimum for any Sezzle order unless the merchant sets it higher. (The Canadian minimum will be in CAD converted from USD.)"
+          },
+          {
+            "type": "paragraph",
+            "text": "Are there any extra fees associated with this feature?"
+          },
+          {
+            "type": "paragraph",
+            "text": "The invoicing feature does not charge additional fees, but regular merchant fees still apply. We will deduct the normal fee we would for any Sezzle purchase from each invoice."
+          },
+          {
+            "type": "paragraph",
+            "text": "Does the approval process differ from invoicing vs. regular Sezzle checkout for the shopper?"
+          },
+          {
+            "type": "paragraph",
+            "text": "For the shopper, the approval process doesn’t differ between invoicing and regular Sezzle checkout."
+          },
+          {
+            "type": "paragraph",
+            "text": "Will invoiced orders show up on my dashboard?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Invoice orders will appear in the Orders tab as well as the \"Invoices\" tab → \"Manage.\""
+          },
+          {
+            "type": "paragraph",
+            "text": "Is the return or dispute process any different for invoice orders?"
+          },
+          {
+            "type": "paragraph",
+            "text": "No, the return and dispute processes are not any different from invoice orders."
+          },
+          {
+            "type": "paragraph",
+            "text": "Can I send an itemized invoice through Sezzle?"
+          },
+          {
+            "type": "paragraph",
+            "text": "The invoices sent via Sezzle only include the total amount (including taxes) that is being invoiced."
+          },
+          {
+            "type": "paragraph",
+            "text": "Shopify merchants: to view an itemized list, you can use your POS. Just process your items and use Sezzle as the Payment method. Be sure to run the transaction in your Sezzle dashboard before the Shopify POS to ensure the payment is processed."
+          },
+          {
+            "type": "paragraph",
+            "text": "I sent an invoice to a shopper, but it was declined. What can I do?"
+          },
+          {
+            "type": "paragraph",
+            "text": "If a shopper’s order is declined, the merchant can either try to send the invoice again for a lower amount or let the shopper know they will not be able to purchase the item via Sezzle."
+          },
+          {
+            "type": "paragraph",
+            "text": "Note: Any order placed via Invoice will not show in your e-commerce platform, but only your Sezzle Merchant Dashboard."
+          }
+        ]
+      },
+      {
+        "title": "What is Sezzle Up?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/16700848787860-What-is-Sezzle-Up",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Sezzle Basics",
+          "The Sezzle Shopper Experience"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Shoppers now have access to a credit reporting feature called Sezzle Up."
+          },
+          {
+            "type": "paragraph",
+            "text": "When shoppers enroll in Sezzle Up, they are given access to specific benefits or Sezzle Up-only features, including credit-building abilities and direct access to their limit with Sezzle. If a shopper has a question regarding Sezzle Up, please direct them to Shopper Sezzle Up resources here , or have them contact us at shoppersupport@sezzle.com ."
+          }
+        ]
+      },
+      {
+        "title": "What payment options does Sezzle offer customers?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/15589217266068-What-payment-options-does-Sezzle-offer-customers",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Sezzle Basics",
+          "The Sezzle Shopper Experience"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Also, see What is long-term financing? for payment plans for bigger ticket items."
+          },
+          {
+            "type": "paragraph",
+            "text": "Shoppers will be presented with the best Sezzle payment option(s) to maximize approvals and conversion, depending on the price point."
+          },
+          {
+            "type": "paragraph",
+            "text": "What is the benefit of offering more payment plans?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Offering multiple checkout solutions from Sezzle has proven to lead to higher approval rates, increased basket conversions, and higher AOVs (average order volume)."
+          },
+          {
+            "type": "paragraph",
+            "text": "*Sezzle may be able to customize these settings upon your request. See Can I set a minimum order amount?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Am I eligible to offer Pay-in-Full or Pay-in-2?"
+          },
+          {
+            "type": "paragraph",
+            "text": "For existing merchants, these payment options will automatically be enabled through your existing Sezzle integration. There is no additional action required."
+          },
+          {
+            "type": "paragraph",
+            "text": "Pay-in-2 is not yet available for the Sezzle Virtual Card or Virtual Card SDK integrations."
+          }
+        ]
+      },
+      {
+        "title": "What is long-term financing?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/10837030250132-What-is-long-term-financing",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Sezzle Basics",
+          "Long-Term Financing with Sezzle"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Payment plans are now being offered to shoppers that span longer than the usual six-week period for higher-priced items with no hard credit checks required. Long-term financing is available for U.S. Sezzle merchants only. There are a number of merchant requirements set by our system for approval and we do not have a way to guarantee it will be available for a specific merchant. We recommend checking the app later or reaching out to accounts@sezzle.com for more information."
+          },
+          {
+            "type": "paragraph",
+            "text": "What is long-term financing?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Long-term financing is an option for shoppers to purchase higher ticket orders, paying over a longer period of time with varying interest rates (based on creditworthiness) and no down payments."
+          },
+          {
+            "type": "paragraph",
+            "text": "What are the benefits of enrolling in long-term financing?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Will my merchant rates change?"
+          },
+          {
+            "type": "paragraph",
+            "text": "When you offer long-term, by default, your rate will match the core rate for an interest-bearing account. However, any 0% interest offerings will have different rates."
+          },
+          {
+            "type": "paragraph",
+            "text": "Who are the lenders?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Bread Financial™"
+          },
+          {
+            "type": "bullet",
+            "text": "Bread Financial™  is a financing partner of Sezzle’s that helps shoppers make purchases with easy-to-understand payments through its affiliated bank, Comenity Capital Bank."
+          }
+        ]
+      },
+      {
+        "title": "How do I apply for long-term financing?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/10837076482452-How-do-I-apply-for-long-term-financing",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Sezzle Basics",
+          "Long-Term Financing with Sezzle"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Payment plans are now being offered to shoppers that span longer than the usual six-week period for higher-priced items with no hard credit checks required. Long-term financing is available for U.S. Sezzle merchants only. There are a number of merchant requirements set by our system for approval, and we do not have a way to guarantee it will be available for a specific merchant. We recommend checking the app later or reaching out to accounts@sezzle.com for more information."
+          },
+          {
+            "type": "paragraph",
+            "text": "You should consider offering long-term financing if:"
+          },
+          {
+            "type": "bullet",
+            "text": "You are looking to expand your customer base and increase your conversion rates"
+          },
+          {
+            "type": "bullet",
+            "text": "You are looking to empower your shoppers to make higher volume purchases and streamline your their experience through one payment provider"
+          },
+          {
+            "type": "bullet",
+            "text": "You are a US-based company"
+          },
+          {
+            "type": "bullet",
+            "text": "Your order values are between $150 - $15,000"
+          },
+          {
+            "type": "bullet",
+            "text": "You have been in business for at least 1 year"
+          },
+          {
+            "type": "bullet",
+            "text": "You are an LLC or Corporation (no 501c3 non-profit organizations) - Stated annual sales of at least $25,000 USD."
+          },
+          {
+            "type": "paragraph",
+            "text": "How do I apply?"
+          },
+          {
+            "type": "paragraph",
+            "text": "If you have been pre-approved, you will see a new \"Business\" tab under settings within your merchant dashboard. Once you complete the form with your business information, our team will review it, turn on long-term lending for you, or reach out with more information if necessary."
+          },
+          {
+            "type": "paragraph",
+            "text": "If you don’t see these options within your settings, reach out to accounts@sezzle.com so our team can evaluate whether long-term financing is the right choice for your business."
+          },
+          {
+            "type": "paragraph",
+            "text": "(Note that anyone who owns 25% or more of the business, whether it’s an individual or entity, needs to be included in the owner details portion.)"
+          },
+          {
+            "type": "paragraph",
+            "text": "What is required for setting up long-term financing? You must have Sezzle’s pay-in-4 core product set up for your business. We also ask for your widgets to be installed. Please refer to the merchant setup checklist within your dashboard for widget setup instructions."
+          }
+        ]
+      },
+      {
+        "title": "How do I manage my long-term financing orders?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/10837136307732-How-do-I-manage-my-long-term-financing-orders",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Sezzle Basics",
+          "Long-Term Financing with Sezzle"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Payment plans are now being offered to shoppers that span longer than the usual six-week period for higher-priced items, with no hard credit checks required. Long-term financing is available for U.S. Sezzle merchants only. There are a number of merchant requirements set by our system for approval, and we do not have a way to guarantee it will be available for a specific merchant."
+          },
+          {
+            "type": "paragraph",
+            "text": "Once long-term financing has been set up for your business, shoppers will see available payment plans based on their own approvals. If they select the long-term financing option and get approved, that purchase will be included with other standard orders in your dashboard with a long_term_lending label next to them."
+          },
+          {
+            "type": "paragraph",
+            "text": "How do disputes, returns, and refunds work with long-term financing?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Most disputes function the same as regular Sezzle orders. For more information on cancellations, returns, and refunds on orders financed through Bread Financial® refer to the Sezzle Bread Merchant Agreement for any differences in the process."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "New Merchant Applications & Onboarding Everything you need for a successful start with Sezzle.",
+    "articles": [
+      {
+        "title": "Applications",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/360040495191-Applications",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "New Merchant Applications & Onboarding",
+          "Applications"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Benefits of having Sezzle:"
+          },
+          {
+            "type": "paragraph",
+            "text": "Sezzle empowers merchants to boost sales by offering a flexible, “Buy Now, Pay Later” solution at checkout. By enabling shoppers to split their purchases into manageable payments, Sezzle helps reduce cart abandonment, increase average order values, and make purchases more accessible to a broader audience."
+          },
+          {
+            "type": "paragraph",
+            "text": "Merchants receive payment upfront for approved transactions, while Sezzle manages the shopper payment plan and assumes primary responsibility for consumer credit risk, subject to the terms of the merchant agreement. Integration with Sezzle is straightforward and can help attract new customers from Sezzle’s extensive network of engaged users."
+          },
+          {
+            "type": "paragraph",
+            "text": "Additionally, Sezzle’s transparent, shopper-friendly approach can enhance your brand’s reputation and encourage repeat business, all while providing valuable insights into customer purchasing behavior."
+          },
+          {
+            "type": "paragraph",
+            "text": "How to apply for Sezzle:"
+          },
+          {
+            "type": "paragraph",
+            "text": "You can apply for Sezzle by following this link and then entering your email address and creating a password. You will then be prompted to enter a phone number capable of receiving text messages for two-factor authentication. Once your business information is entered and your application is submitted, a member of our Applications team will typically contact you within 2–3 business days."
+          },
+          {
+            "type": "paragraph",
+            "text": "Please note that in order to be able to offer Sezzle to your shoppers, you will need to have a few things in place first:"
+          },
+          {
+            "type": "bullet",
+            "text": "A website on a supported platform - To see the full list of supported platforms, please click here."
+          },
+          {
+            "type": "bullet",
+            "text": "A fully shoppable site:"
+          },
+          {
+            "type": "bullet",
+            "text": "All products are listed and priced, with pictures and item descriptions"
+          },
+          {
+            "type": "bullet",
+            "text": "Return and shipping policies, contact information, and procedures are easy to view and access from the main page"
+          },
+          {
+            "type": "bullet",
+            "text": "No empty listings or broken pages (i.e. \"Your item here,\" or \"Describe your shop here\" pages/sections)"
+          },
+          {
+            "type": "bullet",
+            "text": "A site that is not password protected - If your site is password protected, please provide temporary access credentials so our review team can evaluate the site."
+          },
+          {
+            "type": "bullet",
+            "text": "An existing primary payment option (i.e. Primary Credit/Debit card payment processor)"
+          },
+          {
+            "type": "paragraph",
+            "text": "While this does not guarantee your approval, your site will not be approved if these elements are not in place when we review it."
+          },
+          {
+            "type": "paragraph",
+            "text": "Please make sure to check your spam and/or junk folders for messages from our team. You can always contact us by clicking the submit a request button at the top of this page if you have further questions!"
+          },
+          {
+            "type": "paragraph",
+            "text": "Application Follow-up"
+          },
+          {
+            "type": "paragraph",
+            "text": "Once your application is submitted, your account will show as “Pending,” and a member of our approvals team will be in touch with you within three business days. Please check the email address you used at sign-up, as that's where you'll receive further correspondence (including any requests for additional information). Once they have approved your store, you will have full functionality, including the ability to log in and add a bank account."
+          },
+          {
+            "type": "paragraph",
+            "text": "If you receive an email or you log in to your application with the notice that your application has been declined, please reach out to our team at accounts@sezzle.com, and our team can offer further information."
+          },
+          {
+            "type": "paragraph",
+            "text": "How to add another store:"
+          },
+          {
+            "type": "paragraph",
+            "text": "If you have another store you would like to onboard with Sezzle, you may add that store via your Sezzle Merchant Dashboard (Settings > Add Another Store)"
+          },
+          {
+            "type": "paragraph",
+            "text": "Please refer to (How to apply for Sezzle) for website requirements."
+          },
+          {
+            "type": "paragraph",
+            "text": "Additionally, you're able to set up the same bank account to receive funds for multiple Sezzle accounts."
+          }
+        ]
+      },
+      {
+        "title": "How do I set up payment methods?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/22048837881748-How-do-I-set-up-payment-methods",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "New Merchant Applications & Onboarding",
+          "Getting Started"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Sezzle requires at least two payment methods on file: a card and a bank account."
+          },
+          {
+            "type": "bullet",
+            "text": "Cards will be used for debiting and refunds, and at least one is always required on file. Once you reach this step in the checklist, input the card details, and you’ll notice your In-Store setup tab is now unlocked."
+          },
+          {
+            "type": "bullet",
+            "text": "Bank accounts will be how you receive your payouts. See “ How do I set up a bank account to receive funds? ” for more information."
+          },
+          {
+            "type": "paragraph",
+            "text": "Once you have a card and bank account successfully verified on file, you will be able to generate your API keys and begin integrating with Sezzle ."
+          },
+          {
+            "type": "paragraph",
+            "text": "You can update your payment method settings at any time via the “Payment Methods” tab in your merchant dashboard."
+          },
+          {
+            "type": "paragraph",
+            "text": "Note: Sezzle does not accept Capital One cards or ChimeBlueVine, Oxygen, Bancorp, or Stride bank accounts."
+          }
+        ]
+      },
+      {
+        "title": "How do I set up Sezzle?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/360040085912-How-do-I-set-up-Sezzle",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "New Merchant Applications & Onboarding",
+          "Getting Started"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Once your application is approved (if you have not filled out an application, you can do so here ), a Setup Checklist is generated for your specific account and e-commerce platform. This step-by-step guide walks you through all aspects of getting Sezzle live for your shoppers - from enabling us at checkout to setting up your bank account. You can always access your Setup Checklist by logging into your Sezzle account and selecting \"Setup Checklist\" on the left-hand side, or by clicking here ."
+          },
+          {
+            "type": "paragraph",
+            "text": "If you have any questions about setting up Sezzle, please don't hesitate to reach out to us by using the \"Submit a Request\" button at the top of this page!"
+          }
+        ]
+      },
+      {
+        "title": "How do I make an \"About Sezzle\" page?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/360041531132-How-do-I-make-an-About-Sezzle-page",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "New Merchant Applications & Onboarding",
+          "Getting Started"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Adding a page about Sezzle will help your customers understand how Sezzle works and the benefits of paying with Sezzle. We have a pre-made HTML template ready for use on your website. Start by selecting your platform, and then use the code from the \"Code\" section to complete the page!"
+          },
+          {
+            "type": "paragraph",
+            "text": "For step-by-step instructions for Shopify and other platforms, see our technical documentation here ."
+          },
+          {
+            "type": "paragraph",
+            "text": "To see a sample of what the page looks like, click here ."
+          }
+        ]
+      },
+      {
+        "title": "I have multiple stores or the same store on two different platforms. How do I get Sezzle on my stores?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/360040495031-I-have-multiple-stores-or-the-same-store-on-two-different-platforms-How-do-I-get-Sezzle-on-my-stores",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "New Merchant Applications & Onboarding",
+          "Getting Started"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Whether you have two entirely separate stores or a store that's on multiple platforms (like Shopify and CommentSold), we do need you to submit separate applications for each of your stores. Once you have one store approved, you can simply log into your account and select \"Add New Store\" in the settings menu on the left-hand side to tie your stores to one Sezzle account."
+          },
+          {
+            "type": "paragraph",
+            "text": "This process helps ensure a great experience for our shoppers, as they will correctly see their orders and which store they came from. This also ensures you get properly paid out for all the orders you process. We'll generate you specific install instructions and API keys for any and all sites, so you can make sure everything is seamlessly installed."
+          },
+          {
+            "type": "paragraph",
+            "text": "Additionally, you're able to set up the same bank account to receive funds for multiple Sezzle accounts."
+          }
+        ]
+      },
+      {
+        "title": "How do I get my business in the Sezzle App?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/360049852031-How-do-I-get-my-business-in-the-Sezzle-App",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "New Merchant Applications & Onboarding",
+          "Getting Started"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Drive more sales by joining the Sezzle Store Directory. The Sezzle app includes a directory of Sezzle's top brand partners, where loyal shoppers go to discover new brands. Our app gets 450,000+ shoppers weekly, and we don’t want you to miss out on potential sales. It only takes a few minutes to get added!"
+          },
+          {
+            "type": "paragraph",
+            "text": "Follow these 3 easy steps to submit your store directory listing:"
+          },
+          {
+            "type": "number",
+            "number": 1,
+            "text": "Log in to your Sezzle Dashboard and click on the Store Directory tab."
+          },
+          {
+            "type": "number",
+            "number": 2,
+            "text": "Upload a lifestyle image and logo ."
+          },
+          {
+            "type": "number",
+            "number": 3,
+            "text": "Add categories and tags to make your store easier to find."
+          },
+          {
+            "type": "paragraph",
+            "text": "Uploading your lifestyle image"
+          },
+          {
+            "type": "paragraph",
+            "text": "Your store badge in the Store Directory includes your logo and a lifestyle image of your choosing. Make a strong first impression with shoppers by selecting a picture highlighting your unique brand!"
+          },
+          {
+            "type": "paragraph",
+            "text": "Lifestyle Image Do’s:"
+          },
+          {
+            "type": "bullet",
+            "text": "Use a professional picture. Lifestyle images or high-quality product images perform best with shoppers."
+          },
+          {
+            "type": "bullet",
+            "text": "Showcase your unique brand or products*"
+          },
+          {
+            "type": "bullet",
+            "text": "Use an image that is at least 1080x1080 pixels in dimensions. Most larger images won’t load, so you might need to resize if the picture is too big."
+          },
+          {
+            "type": "paragraph",
+            "text": "*Certain restrictions apply."
+          },
+          {
+            "type": "paragraph",
+            "text": "Lifestyle Image Don’ts:"
+          },
+          {
+            "type": "bullet",
+            "text": "Avoid selfies, social media filters, and collages"
+          },
+          {
+            "type": "bullet",
+            "text": "Your image should be free of text overlays and logos"
+          },
+          {
+            "type": "bullet",
+            "text": "Make sure your lifestyle image is not your logo"
+          },
+          {
+            "type": "paragraph",
+            "text": "Here are some examples of great lifestyle images that showcase a merchant’s unique brand!"
+          },
+          {
+            "type": "paragraph",
+            "text": "Uploading your logo"
+          },
+          {
+            "type": "paragraph",
+            "text": "Upload a logo that is at least 1080x1080 pixels in dimension. Make sure it’s centered with an equal amount of white space around the logo."
+          },
+          {
+            "type": "paragraph",
+            "text": "Here are some great examples where the merchant has used a high-resolution, centered logo:"
+          },
+          {
+            "type": "paragraph",
+            "text": "Adding tags"
+          },
+          {
+            "type": "paragraph",
+            "text": "Tags improve your searchability in the Store Directory. Without tags, your store badge will only be shown when someone searches for your store by name. If you need help generating a list of tags, free resources like ChatGPT or Google Keywords are a great place to start."
+          },
+          {
+            "type": "bullet",
+            "text": "You can add up to 100 tags."
+          },
+          {
+            "type": "bullet",
+            "text": "Tags can describe specific products or categories that you want associated with your store."
+          },
+          {
+            "type": "paragraph",
+            "text": "Ready to submit your Store Directory listing?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Log in to your Sezzle Merchant Dashboard and follow the steps outlined in the Store Directory tab to submit your listing. Our team will review your listing within three business days."
+          },
+          {
+            "type": "paragraph",
+            "text": "Please note: there is a requirement to have at least two completed Sezzle orders and a recent Sezzle checkout for your Store Directory listing to show. If your submission was approved, the listing will not show until these thresholds are met."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Integrating with Sezzle How to configure Sezzle on your website and E-Commerce platform.",
+    "articles": [
+      {
+        "title": "How do I get Sezzle set up on my website?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/360041960611-How-do-I-get-Sezzle-set-up-on-my-website",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Integrating with Sezzle",
+          "General Website Set Up"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Once your account has been approved, you’ll be sent an email with instructions to log in and get set up."
+          },
+          {
+            "type": "paragraph",
+            "text": "If you lose that email or if you get stuck during the setup process, you can always login to your account and select \" Setup Checklist ” to get right back to the instructions."
+          },
+          {
+            "type": "paragraph",
+            "text": "We always recommend starting at the first step, since some of the steps can be dependent on the completion of the previous steps. Typically, the first two steps are the ones that need to be completed for shoppers to start using Sezzle."
+          },
+          {
+            "type": "paragraph",
+            "text": "If you've completed all the steps listed in the Setup Checklist and are still running into issues, please visit https://docs.sezzle.com/#introduction and select the eCommerce platform you are using to house your business. Here you will find more detailed instructions along with common troubleshooting steps. If you have read through this document and are still running into issues, please don't hesitate to reach out to us here, and we would be happy to assist!"
+          }
+        ]
+      },
+      {
+        "title": "How can I test the Sezzle integration on my site?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/360055475852-How-can-I-test-the-Sezzle-integration-on-my-site",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Integrating with Sezzle",
+          "General Website Set Up"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "If you are using WooCommerce, Magento, OpenCart, CommerceCloud, or a custom eCommerce platform, you can test Sezzle on your staging site using Sandbox. Full instructions and test data can be found on our Technical Documentation Site."
+          },
+          {
+            "type": "paragraph",
+            "text": "If you have any further questions regarding testing your integration with Sezzle, please submit a request to our Merchant Experience team here ."
+          }
+        ]
+      },
+      {
+        "title": "How do I add widgets to my website?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/360055460672-How-do-I-add-widgets-to-my-website",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Integrating with Sezzle",
+          "General Website Set Up"
+        ],
+        "content": [
+          {
+            "type": "heading",
+            "level": "h2",
+            "text": "Shopify"
+          },
+          {
+            "type": "bullet",
+            "text": "After adding Sezzle to Shopify , see How do I add widgets to my product and card pages? (App Blocks method) ."
+          },
+          {
+            "type": "heading",
+            "level": "h2",
+            "text": "WooCommerce"
+          },
+          {
+            "type": "bullet",
+            "text": "See How do I set up Sezzle on WooCommerce? (Video tutorial) or technical documentation for WooCommerce here ."
+          },
+          {
+            "type": "heading",
+            "level": "h2",
+            "text": "BigCommerce"
+          },
+          {
+            "type": "bullet",
+            "text": "See How do I get started with Sezzle and BigCommerce? (Video tutorial) or technical documentation for BigCommerce here ."
+          },
+          {
+            "type": "heading",
+            "level": "h2",
+            "text": "CommentSold"
+          },
+          {
+            "type": "bullet",
+            "text": "See How do I add Sezzle to CommentSold? (Video tutorial) or technical documentation for CommentSold here ."
+          },
+          {
+            "type": "heading",
+            "level": "h2",
+            "text": "Other eCommerce Platforms"
+          },
+          {
+            "type": "bullet",
+            "text": "If you are using an eCommerce platform that is not listed here, please reference https://docs.sezzle.com/#plugin-guides for any troubleshooting recommendations."
+          }
+        ]
+      },
+      {
+        "title": "How do I add Sezzle to Shopify? (Video tutorial)",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/360040501431-How-do-I-add-Sezzle-to-Shopify-Video-tutorial",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Integrating with Sezzle",
+          "Shopify and Sezzle"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Adding Sezzle to Shopify"
+          },
+          {
+            "type": "paragraph",
+            "text": "Once your account has been approved, you’ll be sent an email with instructions to log in and set up Sezzle with your Shopify website. You can also always log into your account and select the “ Setup Checklist ” tab to get right back to the instructions. Once approved, pushing Sezzle live at your checkout takes just a few minutes and a couple of clicks!"
+          },
+          {
+            "type": "paragraph",
+            "text": "Step 1: Install Sezzle Payments."
+          },
+          {
+            "type": "paragraph",
+            "text": "See the steps outlined here or in the video below."
+          },
+          {
+            "type": "heading",
+            "level": "h3",
+            "text": ""
+          },
+          {
+            "type": "paragraph",
+            "text": "Step 2: Add Widgets."
+          },
+          {
+            "type": "paragraph",
+            "text": "See How do I add Sezzle to my product and cart pages within Shopify? (Video tutorial) or How do I add widgets to my product and card pages? (App Blocks method) for instructions."
+          },
+          {
+            "type": "paragraph",
+            "text": "If it’s helpful, see step-by-step instructions here ."
+          },
+          {
+            "type": "paragraph",
+            "text": "Once that is complete, you should see Sezzle available as a payment method for your store. Also, feel free to complete additional options to \" Add to the Store Directory ,\" \" Promote Sezzle to Increase Awareness,\" and \" Refer Sezzle to Earn More .\"  These steps are optional, but encouraged to spread the word!"
+          }
+        ]
+      },
+      {
+        "title": "How do I add Sezzle to my product and cart pages within Shopify? (Video tutorial)",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/16975392099732-How-do-I-add-Sezzle-to-my-product-and-cart-pages-within-Shopify-Video-tutorial",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Integrating with Sezzle",
+          "Shopify and Sezzle"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "After Adding Sezzle as a Payment Option Within Shopify , the next step in the integration process is to add Sezzle to your product and cart pages and install the Sezzle checkout button to drive conversions and increase your sales volume. See step-by-step instructions here and the video below for instructions:"
+          },
+          {
+            "type": "paragraph",
+            "text": "Also, see more Shopify widget resources below:"
+          },
+          {
+            "type": "paragraph",
+            "text": "How do I add widgets to my product and card pages? (App Blocks method)"
+          }
+        ]
+      },
+      {
+        "title": "How do I add widgets to my product and card pages? (App Blocks method)",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/11463386632980-How-do-I-add-widgets-to-my-product-and-card-pages-App-Blocks-method",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Integrating with Sezzle",
+          "Shopify and Sezzle"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "The App Blocks method is only available for Shopify 2.0 themes."
+          },
+          {
+            "type": "paragraph",
+            "text": "After Adding Sezzle as a Payment Option Within Shopify , the next step in the integration process is to add Sezzle to your product and cart pages and install the Sezzle checkout button to drive conversions and increase your sales volume."
+          },
+          {
+            "type": "paragraph",
+            "text": "See step-by-step instructions here for the App Blocks method or go to \" How do I add Sezzle to my product and cart pages within Shopify? (Video tutorial) \" for the Embed Blocks method."
+          }
+        ]
+      },
+      {
+        "title": "Installing the Sezzle Checkout Button for Shopify",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/4417253909012-Installing-the-Sezzle-Checkout-Button-for-Shopify",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Integrating with Sezzle",
+          "Shopify and Sezzle"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Before adding the Sezzle checkout button to your cart page, please ensure you've already added Sezzle as a Payment option within Shopify and installed the Sezzle Widget App."
+          },
+          {
+            "type": "paragraph",
+            "text": "From the Sezzle Widget App within Shopify, go to your cart page and click the toggle on the left that says \"Sezzle Checkout Button\" until it turns blue to make it appear next to your existing checkout button. Adjust any settings until you get the look and feel and click \"Save\" at the upper right-hand corner."
+          }
+        ]
+      },
+      {
+        "title": "Sezzle isn't showing up at checkout.",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/360040501491-Sezzle-isn-t-showing-up-at-checkout",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Integrating with Sezzle",
+          "Shopify and Sezzle"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "At this time, we do not have an express checkout method (like Google Pay), which can make shoppers think Sezzle isn't an option at checkout."
+          },
+          {
+            "type": "paragraph",
+            "text": "On Shopify, the option to checkout with Sezzle is at the very end of the order process - after the shopper chooses their shipping method, on the same page where they could enter their credit card information."
+          },
+          {
+            "type": "paragraph",
+            "text": "If Sezzle does not appear as a payment method at that point, it's likely the Sezzle gateway hasn't been fully installed. To configure this, please log in to your Sezzle account and navigate to your “Setup Checklist” (or click here ). Then navigate to \"Install Gateway via Shopify\" – this will walk you step-by-step through adding us to your Shopify checkout page."
+          },
+          {
+            "type": "paragraph",
+            "text": "Additionally, if the shopper has opted into Shopify Pay, or if they have a Shopify account and pre-set checkout settings, they might not see Sezzle (or any other payment methods, like Google Pay) at checkout. In those instances, we recommend the shopper check out as a guest or use a private browsing session to be able to check out using Sezzle. If you have further questions on this setting, we recommend reaching out to Shopify directly."
+          }
+        ]
+      },
+      {
+        "title": "The widgets on my website aren't showing up anymore.",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/360040091672-The-widgets-on-my-website-aren-t-showing-up-anymore",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Integrating with Sezzle",
+          "Shopify and Sezzle"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "If a change is made to your Shopify theme or to the back-end code of your site, our widgets will often be removed. Don’t worry – we can get them back up for you! Just reach out to us here , and we can get them back up and running at no cost."
+          },
+          {
+            "type": "paragraph",
+            "text": "Even if the widgets are not showing, as long as you have us enabled as a payment option within Shopify, shoppers can still check out and use Sezzle."
+          }
+        ]
+      },
+      {
+        "title": "How do I add Sezzle to Shoplazza?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/47798910658836-How-do-I-add-Sezzle-to-Shoplazza",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Integrating with Sezzle",
+          "Other E-Commerce Platforms and Sezzle"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Here are your next steps to connect Sezzle with your Shoplazza store:"
+          },
+          {
+            "type": "bullet",
+            "text": "Add a bank account to your Payment Method Settings .  You do not need to wait for the micro-deposits to go through to continue setup."
+          },
+          {
+            "type": "bullet",
+            "text": "Integrate Sezzle into your platform! To set up Sezzle, please click here and pay special attention to the first two steps. The first is what gets us live as your payment method. The second is what puts the price breakdowns (widgets) on the item pages for customers to see what they could pay if they use Sezzle! Make sure to go through the rest of the steps, especially to confirm that your bank account is fully set up. You can also find a helpful step-by-step guide here ."
+          },
+          {
+            "type": "paragraph",
+            "text": "Once this is completed, you can also install widgets to your product and cart pages, and there are other great options within your Setup Checklist."
+          }
+        ]
+      },
+      {
+        "title": "How do I get started with Sezzle and BigCommerce? (Video tutorial)",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/16973353432084-How-do-I-get-started-with-Sezzle-and-BigCommerce-Video-tutorial",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Integrating with Sezzle",
+          "Other E-Commerce Platforms and Sezzle"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "First, you will need to add a bank account to your Payment Method Settings .  You do not need to wait for the micro-deposits to go through to continue setup."
+          },
+          {
+            "type": "paragraph",
+            "text": "Next, you will need to add Sezzle to the BigCommerce platform!  We have a great step-by-step guide to get you set up here, or see the video below."
+          },
+          {
+            "type": "paragraph",
+            "text": "Once this is completed, you can also install widgets to your product and cart pages, and there are other great options within your Setup Checklist."
+          }
+        ]
+      },
+      {
+        "title": "How do I add Sezzle to CommentSold? (Video tutorial)",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/360041527812-How-do-I-add-Sezzle-to-CommentSold-Video-tutorial",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Integrating with Sezzle",
+          "Other E-Commerce Platforms and Sezzle"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Once your account has been approved, you’ll be sent an email with instructions to log in and set up your Sezzle account. You can also always log into your account and select the “Setup Checklist” tab to get right back to the instructions."
+          },
+          {
+            "type": "paragraph",
+            "text": "First things first, you will need to add a bank account to your Payment Method Settings .  You do not need to wait for the micro-deposits to go through to continue setup."
+          },
+          {
+            "type": "paragraph",
+            "text": "Next, you will need to integrate Sezzle with your CommentSold platform!"
+          },
+          {
+            "type": "paragraph",
+            "text": "We have a great step-by-step guide to get you set up here , or see the video below."
+          }
+        ]
+      },
+      {
+        "title": "How do refunds work in CommentSold?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/360041960351-How-do-refunds-work-in-CommentSold",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Integrating with Sezzle",
+          "Other E-Commerce Platforms and Sezzle"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "At this time, refunds for Sezzle orders through CommentSold must be initiated within your Sezzle account. You can do this by logging into your account, selecting the \"Orders\" tab, and then searching for the order."
+          },
+          {
+            "type": "paragraph",
+            "text": "Selecting an order will allow you to either issue a full refund or a partial refund. Please do not worry about how much the shopper has paid - our system will automatically issue the relevant refund back to the shopper, if applicable."
+          },
+          {
+            "type": "paragraph",
+            "text": "While store credit is often an acceptable refund method, please do not issue refunds through PayPal, Venmo, cash, or other platforms. Should a shopper dispute an order that was refunded through a platform that wasn't Sezzle or store credit, that refund may not be considered valid evidence."
+          }
+        ]
+      },
+      {
+        "title": "My shopper got an email that their order was canceled, but I didn't cancel it in CommentSold.",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/360040091812-My-shopper-got-an-email-that-their-order-was-canceled-but-I-didn-t-cancel-it-in-CommentSold",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Integrating with Sezzle",
+          "Other E-Commerce Platforms and Sezzle"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "CommentSold has a setting in place that rejects an order if not accepted within a set amount of time (typically a half-hour). When a Sezzle shopper places an order, and it is not accepted within that time frame, the shopper will get an email stating their order was canceled. During this time, no funds have actually been collected from the shopper, and therefore no refund can be issued - we just kept a temporary authorization on their payment method that then gets reversed."
+          },
+          {
+            "type": "paragraph",
+            "text": "If you'd like this setting changed, please reach out to CommentSold directly, as they're the ones who will be able to make any changes."
+          }
+        ]
+      },
+      {
+        "title": "How do I set up Sezzle on WooCommerce? (Video tutorial)",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/360040091772-How-do-I-set-up-Sezzle-on-WooCommerce-Video-tutorial",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Integrating with Sezzle",
+          "Other E-Commerce Platforms and Sezzle"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Once your account has been approved, you’ll be sent an email with instructions to log in and get set up."
+          },
+          {
+            "type": "paragraph",
+            "text": "If you lose that email or if you get stuck during the setup process, you can always log in to your account and click “Setup Checklist” to get right back to the instructions."
+          },
+          {
+            "type": "paragraph",
+            "text": "We have a great step-by-step guide to get you set up here , or see the video below."
+          },
+          {
+            "type": "paragraph",
+            "text": "Please note that if you are using the “Currency Switcher” plug-in, you will need to enable Sezzle as a payment gateway in order for it to display as an option at checkout."
+          },
+          {
+            "type": "paragraph",
+            "text": "If you've completed all the steps listed in the Setup Checklist and are still running into issues, please don't hesitate to reach out to us here !"
+          }
+        ]
+      },
+      {
+        "title": "How can I market to my shoppers through Sezzle? (Klaviyo integration)",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/9156237354132-How-can-I-market-to-my-shoppers-through-Sezzle-Klaviyo-integration",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Integrating with Sezzle",
+          "Other Integrations"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Sezzle is thrilled to announce its integration with Klaviyo, a leading marketing automation platform. This effortless integration aims to enable merchants to drive sales and revenue by providing all customers with a seamless and personalized shopping experience via automated campaigns, including email & SMS marketing channels."
+          },
+          {
+            "type": "paragraph",
+            "text": "Join over 300+ existing merchants by enabling the Sezzle x Klaviyo integration, which allows merchants to identify which of their email subscribers have previously used or not used Sezzle, to filter email lists, and ensure better-targeted messaging surrounding the ease of using an alternate payments solution like Sezzle."
+          },
+          {
+            "type": "paragraph",
+            "text": "You can find more details on the integration here ."
+          },
+          {
+            "type": "paragraph",
+            "text": "So, how does this Integration benefit merchants?"
+          },
+          {
+            "type": "paragraph",
+            "text": "As a result of these benefits, Sezzle’s integration with Klaviyo aims to address and assist with two major use cases:"
+          },
+          {
+            "type": "number",
+            "number": 1,
+            "text": "Reduced Cart Abandonment"
+          },
+          {
+            "type": "number",
+            "number": 2,
+            "text": "Increased Conversions & AOV"
+          },
+          {
+            "type": "paragraph",
+            "text": "There are no additional requirements or costs to use the Sezzle x Klaviyo integration. Regular Klaviyo pricing will apply. Learn more about Klaviyo pricing: https://www.klaviyo.com/pricing ."
+          }
+        ]
+      },
+      {
+        "title": "How do I set up the Klaviyo integration?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/9182978404116-How-do-I-set-up-the-Klaviyo-integration",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Integrating with Sezzle",
+          "Other Integrations"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Learn more about the Sezzle x Klaviyo integrations and their benefits here ."
+          },
+          {
+            "type": "paragraph",
+            "text": "To get started with Klaviyo, you must have a Klaviyo account. If you already have a Klaviyo account, log in and use your account for the next steps. If you do not have a Klaviyo account, sign up by visiting the link below. You can also visit the Integrations tab within your Merchant Dashboard, and click Sign Up."
+          },
+          {
+            "type": "paragraph",
+            "text": "Sign up for Klaviyo"
+          },
+          {
+            "type": "number",
+            "number": 1,
+            "text": "Visit your Klaviyo Dashboard by logging in via the link below, and copy your Public API Key. View your API Keys: https://www.klaviyo.com/login?next=/account#api-keys-tab Alternatively, visit Account > Settings > API Keys in your Klaviyo Dashboard."
+          },
+          {
+            "type": "number",
+            "number": 2,
+            "text": "Within your Merchant Dashboard, visit the Integrations page and paste your Public API Key from your Klaviyo Dashboard into the “Public API Key” text field"
+          },
+          {
+            "type": "number",
+            "number": 3,
+            "text": "Return to your Klaviyo Dashboard and click Create Private API Key. Create your Private API key, view the API key, then copy. View your API keys: https://www.klaviyo.com/login?next=/account#api-keys-tab"
+          },
+          {
+            "type": "number",
+            "number": 4,
+            "text": "Within your Merchant Dashboard, visit the Integrations page and paste your Private API Key from your Klaviyo Dashboard into the “Private API Key” text field. Note: the Private API Key is the longer of the two API keys."
+          },
+          {
+            "type": "number",
+            "number": 5,
+            "text": "On the same page, click Enable to link your Klaviyo account to your Sezzle account and enable the integration."
+          },
+          {
+            "type": "number",
+            "number": 6,
+            "text": "Once enabled, you will see a notification at the top of the page confirming that the integration has been successfully enabled."
+          }
+        ]
+      },
+      {
+        "title": "How do I use the Klaviyo integration?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/9183022415124-How-do-I-use-the-Klaviyo-integration",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Integrating with Sezzle",
+          "Other Integrations"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "For the most up-to-date information, click the following link to view or download an instructional PDF: Sezzle <> Klaviyo Using the Integration in Klaviyo Dashboard ."
+          }
+        ]
+      },
+      {
+        "title": "How do I disable the Klaviyo integration?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/9183065088276-How-do-I-disable-the-Klaviyo-integration",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Integrating with Sezzle",
+          "Other Integrations"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "If you would no longer like to continue using the Klaviyo x Sezzle integration, you can do so by taking the following steps:"
+          },
+          {
+            "type": "number",
+            "number": 1,
+            "text": "Visit your Merchant Dashboard and visit the Integrations page. The Klaviyo integration will say Enabled if active."
+          },
+          {
+            "type": "number",
+            "number": 2,
+            "text": "Click Disable, then \"Disable\" again."
+          },
+          {
+            "type": "number",
+            "number": 3,
+            "text": "Once disabled, you will see a notification at the top of the page confirming that the integration has been successfully disabled."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Account Settings Navigating the Merchant Dashboard and keeping your account information up-to-date.",
+    "articles": [
+      {
+        "title": "What is Passkey login?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/22057128759700-What-is-Passkey-login",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Account Settings",
+          "Merchant Login Help"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "What is a Passkey Login?"
+          },
+          {
+            "type": "paragraph",
+            "text": "A Passkey Login is a secure and convenient way to access your account without the need for a traditional password. Instead of remembering a complex password, you use a unique passkey – which can be a Face ID or fingerprint login – to authenticate and gain access to your account. You may add more than one passkey to your Sezzle account so you can seamlessly log in from either your mobile device or desktop."
+          },
+          {
+            "type": "paragraph",
+            "text": "Passkey Logins enhance security by reducing the risk of password-related breaches. They are used as an alternative to PIN and SMS one-time passwords (OTP) for user authentication, thus providing a faster and more secure means of authentication, which makes our applications more resistant to hacking and phishing attacks."
+          },
+          {
+            "type": "paragraph",
+            "text": "How do I set up a Passkey Login for my account?"
+          },
+          {
+            "type": "paragraph",
+            "text": "If you’re setting up Passkey for the first time, you will see the Passkey Registration page upon successful login."
+          },
+          {
+            "type": "number",
+            "number": 1,
+            "text": "Register a Passkey."
+          },
+          {
+            "type": "number",
+            "number": 2,
+            "text": "Create a passkey using our iCloud Keychain, another device via a QR code, or your Chrome profile."
+          },
+          {
+            "type": "number",
+            "number": 3,
+            "text": "Verify your identity."
+          },
+          {
+            "type": "paragraph",
+            "text": "If you would like to add additional passkeys, you can navigate to the Biometrics login settings page and create a passkey there."
+          },
+          {
+            "type": "paragraph",
+            "text": "Can I still use a password if I prefer it over a Passkey Login?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Yes, you can still use your password and/or Two-Factor Authentication to log in to your Sezzle account. However, for enhanced security, we recommend using Passkey Logins whenever possible."
+          },
+          {
+            "type": "paragraph",
+            "text": "What happens if I lose my device or passkey?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Losing access to the device that was storing your passkeys is not uncommon. You can log in and recover your account by using your password. Once logged in, new passkeys can be added to your account on the Security page in your dashboard."
+          },
+          {
+            "type": "paragraph",
+            "text": "Is Passkey Login compatible with all devices and platforms?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Compatibility can vary, but Passkey Logins are becoming increasingly popular and are often supported on a wide range of devices and platforms. For example, most mobile devices now have the ability to use Face ID or fingerprint encryption as a viable passkey option. Windows Hello also works as Passkeys if there are no internal biometric sensors on the device."
+          }
+        ]
+      },
+      {
+        "title": "How to allow an employee's access to view or download transaction reports?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/17514820072084-How-to-allow-an-employee-s-access-to-view-or-download-transaction-reports",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Account Settings",
+          "Merchant Login Help"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "In order for a user to be able to download the transaction history spreadsheet, the following permissions need to be granted from your Manage Users Settings page in your Sezzle Dashboard:"
+          },
+          {
+            "type": "bullet",
+            "text": "Orders Page Access Level: Read Only or Read & Write"
+          },
+          {
+            "type": "bullet",
+            "text": "Refunds Page Access Level: Read Only or Read & Write"
+          },
+          {
+            "type": "bullet",
+            "text": "Withdrawal Account Access Level: Read Only or Read & Write"
+          },
+          {
+            "type": "bullet",
+            "text": "Interest Account Access Level: Read Only or Read & Write"
+          },
+          {
+            "type": "paragraph",
+            "text": "Also, see How do I add someone else to my Sezzle account?"
+          }
+        ]
+      },
+      {
+        "title": "I forgot my password. How do I reset it?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/360040085932-I-forgot-my-password-How-do-I-reset-it",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Account Settings",
+          "Merchant Login Help"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Please click here to reset your password (you may need to log out of your account first) - you'll then receive an email with instructions to reset your password."
+          },
+          {
+            "type": "paragraph",
+            "text": "If you don't receive the email, it might be that our message went to your junk or spam folders, or that the email address you entered isn't tied to the account. If the email address is one that is tied to your account, you will have other emails from Sezzle within your inbox."
+          },
+          {
+            "type": "paragraph",
+            "text": "If you no longer have access to the email address associated with your Sezzle account, please reach out to us directly for assistance by using the \"Submit a Request\" button at the top of this page."
+          }
+        ]
+      },
+      {
+        "title": "What is two-factor authentication and how does it work?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/4401751102356-What-is-two-factor-authentication-and-how-does-it-work",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Account Settings",
+          "Merchant Login Help"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Sezzle's two-factor authentication feature exists to keep your merchant account secure! Two-factor authentication is required for all merchant accounts and requires each user associated with your merchant account to verify their identity before logging in. This usually will take place via a one-time password or by using security questions. Setting up two-factor authentication will not only make sure the correct individuals have access to your account, but it also enhances the security of your private information and prevents fraudulent activity on your account."
+          },
+          {
+            "type": "paragraph",
+            "text": "Please note: if multiple people need access to a merchant account, or if there are shared credentials, a new user will need to be created for each individual user before setting up two-factor authentication for your account. If you are unsure how to create a new user for your merchant account, please visit the help article linked below."
+          },
+          {
+            "type": "paragraph",
+            "text": "Help Article: I need to add someone else to my Sezzle account"
+          },
+          {
+            "type": "paragraph",
+            "text": "Next, see How do I set up two-factor authentication? or I have two-factor authentication set up, but I am having some issues."
+          }
+        ]
+      },
+      {
+        "title": "How do I set up two-factor authentication?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/16960335317908-How-do-I-set-up-two-factor-authentication",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Account Settings",
+          "Merchant Login Help"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "I already have access to my merchant account."
+          },
+          {
+            "type": "paragraph",
+            "text": "If you have logged into your merchant account before, setting up two-factor authentication is easy! Simply log in to your merchant account as you normally would and select \"continue\" on the enable two-factor screen. You will then be asked to insert your phone number to receive one-time passcodes. After verifying your phone number, you will be asked to insert answers to three security questions of your choice. Once submitted, this information will be used for all future login attempts."
+          },
+          {
+            "type": "paragraph",
+            "text": "I've never logged into my merchant account before."
+          },
+          {
+            "type": "paragraph",
+            "text": "No worries! Even if you have not logged in before, two-factor authentication can be set up on your account for future use. If you have never logged into your merchant account before, you will need to be sure you have been invited to create an account by the account owner. You will find this invitation in your email. Once you have created your username and password, you'll have the ability to enable two-factor authentication."
+          }
+        ]
+      },
+      {
+        "title": "I have two-factor authentication set up, but I am having some issues.",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/16960333271572-I-have-two-factor-authentication-set-up-but-I-am-having-some-issues",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Account Settings",
+          "Merchant Login Help"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "I had two-factor authentication set up, but my email has now changed."
+          },
+          {
+            "type": "paragraph",
+            "text": "If your email has changed, you will need to set up new login information to get into your merchant account. You can do this by logging in with your old email, navigating to \"users\" in your merchant dashboard, and selecting \"invite new user.\" You can then send an invite to your new email address. From here, you'll need to respond to the email invitation and create new login information. Once you have done this, you can re-enable two-factor authentication for the new account."
+          },
+          {
+            "type": "paragraph",
+            "text": "I have two-factor authentication set up, but I need to change my phone number"
+          },
+          {
+            "type": "paragraph",
+            "text": "If you need to update your phone number, please reach out to accounts@sezzle.com, and our team can assist."
+          },
+          {
+            "type": "paragraph",
+            "text": "I no longer have access to the phone number used on my account, and I cannot log in with two-factor authentication."
+          },
+          {
+            "type": "paragraph",
+            "text": "If you need to update your phone number, please reach out to accounts@sezzle.com, and our team can assist."
+          }
+        ]
+      },
+      {
+        "title": "How do I access my tax documents? (1099, W-9, W-8BEN)",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/24099151705620-How-do-I-access-my-tax-documents-1099-W-9-W-8BEN",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Account Settings",
+          "Business Settings"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "How to download a 1099"
+          },
+          {
+            "type": "paragraph",
+            "text": "You can download tax documents from your Merchant Dashboard under \"Manage Documents\" here ."
+          },
+          {
+            "type": "paragraph",
+            "text": "How to upload a W9 or W-8 BEN"
+          },
+          {
+            "type": "paragraph",
+            "text": "As part of our ongoing 1099 compliance process and to correctly verify a business's Taxpayer Identification Number (TIN), merchants are requested to upload a signed copy of the W-9 or W-8BEN to the \"Manage Documents\" section in their Merchant Dashboard. From there, we will verify the information provided in the document with the IRS records."
+          },
+          {
+            "type": "number",
+            "number": 1,
+            "text": "Download a blank W-9 (US merchants) or W-8BEN (Non-US merchants) Ensure the W-9 includes the following information and accurately reflects what is included on your income tax return: Name ( as shown on your income tax return ) Business Name, if different from above Federal tax classification Address City, state, and ZIP code Taxpayer Identification Number (TIN)* or Social Security Number (SSN) Signature (included in Part II: Certification of your W-9)"
+          },
+          {
+            "type": "number",
+            "number": 2,
+            "text": "Upload your document to your Merchant Dashboard under \"Manage Documents\" here ."
+          },
+          {
+            "type": "paragraph",
+            "text": "*The TIN provided must match the name shown on your income tax return. If you are a sole proprietor and you have an Employer Identification Number (EIN), you may enter either your Social Security Number (SSN) or EIN. If you do not have an EIN, you must provide your full SSN. If you are a single-member LLC that is disregarded as an entity separate from its owner, enter the owner's SSN (or EIN, if the owner has one). Do not enter the disregarded entity's EIN. If the LLC is classified as a corporation or partnership, enter the entity's EIN."
+          }
+        ]
+      },
+      {
+        "title": "How do I update my email address?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/16962031538196-How-do-I-update-my-email-address",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Account Settings",
+          "Business Settings"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "To update your email address, head to your dashboard, and select \"Manage Users\" under \"Settings.\" From there, you can add a new user by clicking \"Invite a new user\" from the top. You will essentially be creating a new user for yourself with the new email address you would like to use going forward. When you get to the privileges page, be sure to click \"Set to All Access\" to provide admin privileges and complete the process."
+          },
+          {
+            "type": "paragraph",
+            "text": "You should receive an email with a link to verify the new account and set up a password. Once that is done, you can log in with the new email and password. To remove the old email, visit the \"Manage Users\" tab and select the profile with the email you would like removed. You will then see an option to delete the user."
+          },
+          {
+            "type": "paragraph",
+            "text": "If you would like to change the notification settings associated with the email users on your account, you can update these by selecting \"Notifications\" under \"Settings.\""
+          },
+          {
+            "type": "paragraph",
+            "text": "If you have any additional questions, please feel free to reach out."
+          },
+          {
+            "type": "paragraph",
+            "text": "Note: Only admin users are able to add, remove users, or adjust permissions."
+          }
+        ]
+      },
+      {
+        "title": "How do I add someone else to my Sezzle Merchant account?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/360040495351-How-do-I-add-someone-else-to-my-Sezzle-Merchant-account",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Account Settings",
+          "Business Settings"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "If you need to add another user to your Sezzle Account, click here and provide their email address and full name. The new user will be sent an email to verify their access and allow them to create a password for themselves."
+          },
+          {
+            "type": "paragraph",
+            "text": "You will need to verify via OTP in order to invite the new user."
+          },
+          {
+            "type": "paragraph",
+            "text": "Don’t forget to review their permissions – if you don’t want a new user to make changes within your Sezzle Account, set their permissions to “Read” instead of “Read & Write.”"
+          },
+          {
+            "type": "paragraph",
+            "text": "You can make changes to permissions at any time by selecting “Manage Users” under “Settings.”"
+          },
+          {
+            "type": "paragraph",
+            "text": "From there, the new user will receive an email confirmation with a link to set up the new user."
+          }
+        ]
+      },
+      {
+        "title": "Can I set a minimum order amount?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/360040495451-Can-I-set-a-minimum-order-amount",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Account Settings",
+          "Business Settings"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Note that a minimum of at least $20 USD* (including tax and other fees where applicable) is required for Sezzle, though you’re welcome to set this higher to suit your business."
+          },
+          {
+            "type": "paragraph",
+            "text": "To set up a minimum order amount, we have a few things that have to be in place first:"
+          },
+          {
+            "type": "paragraph",
+            "text": "1. Ensure you have installed the Sezzle widget (price breakdown on the item page). If you don't have this installed, we can help - but the first two steps of your setup checklist must be complete. Let us know if you have questions about getting those installed!"
+          },
+          {
+            "type": "paragraph",
+            "text": "2. Establish a minimum dollar amount you'd like for Sezzle shoppers. Note that a minimum of at least $20 USD (including tax and other fees where applicable) is required for Sezzle, though you’re welcome to set this higher should your average order value be above that amount."
+          },
+          {
+            "type": "paragraph",
+            "text": "3. Post that minimum amount somewhere on your store’s page for your shoppers to see to avoid confusion at checkout (this could be in the FAQ section, or each product description, entirely up to you). Please note, this posting must be on your site itself, not just a Facebook group."
+          },
+          {
+            "type": "paragraph",
+            "text": "4. Send us a screenshot of that posted notice."
+          },
+          {
+            "type": "paragraph",
+            "text": "Once all of that is complete, we can get our development team engaged in getting that changed for you!"
+          },
+          {
+            "type": "paragraph",
+            "text": "*Canadian minimum order requirements will be CAD converted from USD."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Merchant Fees & Payouts Sezzle costs and how you get paid.",
+    "articles": [
+      {
+        "title": "What is the difference between the Delayed Settlement Incentive Program (Interest Plan) and the Automatic Withdrawal Plan?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/16963606443796-What-is-the-difference-between-the-Delayed-Settlement-Incentive-Program-Interest-Plan-and-the-Automatic-Withdrawal-Plan",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Merchant Fees & Payouts",
+          "Payment Method Settings and Getting Paid"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Delayed Settlement Incentive Program (Interest Plan)"
+          },
+          {
+            "type": "paragraph",
+            "text": "In this plan, payables due from captured and settled orders will be eligible to earn a daily incentive payment of 4.60% annually."
+          },
+          {
+            "type": "paragraph",
+            "text": "Automatic Withdrawal Plan"
+          },
+          {
+            "type": "paragraph",
+            "text": "In the standard Automatic Withdrawal Plan, payables due from captured and settled orders will be transferred automatically to your bank account after a holding period of one business day."
+          },
+          {
+            "type": "paragraph",
+            "text": "Managing Your Plans"
+          },
+          {
+            "type": "paragraph",
+            "text": "You can view your specific holding period and change between accounts by logging in to your Sezzle dashboard at dashboard.sezzle.com/merchant and navigating to the “Overview” tab or the home page. Please note that any changes to which plan you're using are not retroactive and will only impact orders made after the change."
+          },
+          {
+            "type": "paragraph",
+            "text": "Also, see What is the Delayed Settlement Incentive Program (Interest Plan)?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Delayed Settlement Incentive Program (Interest Plan) withdrawals made after 5 pm ET will be processed the next banking day. See the Merchant Agreement for more details. Daily Incentive Rate will be displayed in your Merchant dashboard; holding periods and rate are subject to change. Switching plans will affect future settlements only; pending settlements remain on their current schedule. This program is not affiliated with WebBank."
+          }
+        ]
+      },
+      {
+        "title": "How do payouts work?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/16963472201236-How-do-payouts-work",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Merchant Fees & Payouts",
+          "Payment Method Settings and Getting Paid"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Our payment system is divided into two main parts - Settlements and Withdrawals ."
+          },
+          {
+            "type": "paragraph",
+            "text": "Settlements"
+          },
+          {
+            "type": "paragraph",
+            "text": "Settlements include all of your orders, but not any refunds. Funds will \"settle\" into your account after the settlement period. We group orders with the same settlement date together, and the dates are determined by business days. For example, all of your orders placed on a Saturday and Sunday would have the same settlement date."
+          },
+          {
+            "type": "paragraph",
+            "text": "The settlement step is essential, as some merchants use the interest-bearing account instead of the automatic deposit plan. So the \"Settlements\" tab will show the dates all funds are available, and it will say whether or not they go into the automatic plan or the interest plan. On that tab, the settlement date is on the left. You can see the ones that are upcoming (Pending) and the ones that have been completed (Processed) by selecting the appropriate tab. You can then click on each settlement to see the details of the orders that were included in the settlement. The ones that are on the Processed tab and are not for the interest account will then show up on the Withdrawal Account page."
+          },
+          {
+            "type": "paragraph",
+            "text": "Withdrawals"
+          },
+          {
+            "type": "paragraph",
+            "text": "However, the \"Withdrawal Account\" tab provides more in-depth information - it shows refunds, among other changes. We deduct refunds from the next upcoming deposit, rather than pulling them out of your bank account. The \"Overview\" tab on that page will show you the exact breakdown of the funds sent to your account, including things like referral bonuses and refunds."
+          },
+          {
+            "type": "paragraph",
+            "text": "Your Withdrawal Account can be negative if you've issued refunds and have not had enough orders to make up for those refunds. Funds will not be transferred to your bank account until that Withdrawal Account balance is positive again."
+          },
+          {
+            "type": "paragraph",
+            "text": "Also, see When do I receive the funds from an order?"
+          }
+        ]
+      },
+      {
+        "title": "When do I receive the funds from an order?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/360040086112-When-do-I-receive-the-funds-from-an-order",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Merchant Fees & Payouts",
+          "Payment Method Settings and Getting Paid"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "We transfer the funds from orders to your Sezzle account when orders are placed. The date those funds are sent to your bank account depends on your specific application – the most common settlement period is 3 business days. You can always clearly track the dates your settlements will occur within your dashboard on the \"Settlements\" tab."
+          },
+          {
+            "type": "paragraph",
+            "text": "We combine orders with the same settlement date into one settlement, so orders placed on the same day will be settled on the same day. Often, orders placed on a Saturday and Sunday will also be combined into one settlement as well. The total settlement amount is equal to the total of the orders, less any Sezzle fees."
+          },
+          {
+            "type": "paragraph",
+            "text": "You can view all upcoming settlements by logging in to your account and selecting “Settlements” on the left. You’ll then be shown all your pending settlements, with the dates and amounts clearly listed. If you select a settlement, it will show all orders that are part of that settlement. If you select the “Processed” tab, you will be able to see all settlements that have been fully processed, and you can select a settlement to see all orders that were part of that settlement."
+          },
+          {
+            "type": "paragraph",
+            "text": "You should also check out your \"Withdrawal Account\" tab for additional information – this tab will tell you the final amount sent to your bank account, factoring in things like refunds or currency conversion fees. For example, you might have a $300 settlement from the weekend, but a $25 refund was issued, leaving a total of $275 transferred to your bank account."
+          },
+          {
+            "type": "paragraph",
+            "text": "Note: If you haven't set up your bank account, your funds will not be sent to your bank account. To make sure your bank account is set up, please follow the instructions here ."
+          }
+        ]
+      },
+      {
+        "title": "How do I set up a bank account to receive funds?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/360055893611-How-do-I-set-up-a-bank-account-to-receive-funds",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Merchant Fees & Payouts",
+          "Payment Method Settings and Getting Paid"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Once your website is set up to begin receiving orders, you will need to add a bank account to your merchant account to begin receiving payouts. To add a bank account, please follow the steps outlined below."
+          },
+          {
+            "type": "paragraph",
+            "text": "Log in to your merchant dashboard and navigate to the \"Payment Methods\" tab on the left-hand menu under settings. From here, we have two ways for you to link your bank account:"
+          },
+          {
+            "type": "number",
+            "number": 1,
+            "text": "Link Instantly: To instantly link your checking account as a payment method, you must provide your bank account username and password. For savings accounts, use option 2. However, depending on your bank, this method may not be available. (If you do not see this option yet, please check back later while we roll this out for all Sezzle merchants.)"
+          },
+          {
+            "type": "number",
+            "number": 2,
+            "text": "Connect manually: If you cannot instantly link your bank account, you can do so manually by entering your account information. Please be sure to select the country in which your bank account is located, even if your store is located elsewhere. After entering your information, you should receive a micro-deposit into your bank account within 1-2 business days. When you receive this deposit, log into your merchant dashboard and select \"Settings\" then \"Payment Methods\" on the left-hand side. Ensure you do not have a negative balance in your account, as this deposit will be debited from your account. Select \"Verify\" next to the account in question and enter the micro-deposit amounts you received exactly as they are listed on your bank statement. Finally, select your currency settings by selecting the bank account you would like to use to receive funds from US orders and Canadian orders in the Currency Settings table."
+          },
+          {
+            "type": "paragraph",
+            "text": "Once these steps have been completed, you should be all set to receive payouts!"
+          },
+          {
+            "type": "paragraph",
+            "text": "If your merchant account has not captured a Sezzle order and you have not initiated settlement for the positive balance therein for 90+ days, it will be considered inactive, and a monthly fee will apply. For more information, please visit the Monthly Inactive Account Fee FAQ page ."
+          },
+          {
+            "type": "paragraph",
+            "text": "Capital One and Chase do not allow their credit cards to be used with Buy Now, Pay Later services. Therefore, we no longer accept these as payment methods for Sezzle. Please contact your bank with any additional questions on this."
+          },
+          {
+            "type": "paragraph",
+            "text": "Capital One and Chase do not allow their credit cards to be used with Buy Now, Pay Later services. Therefore, we no longer accept these as payment methods for Sezzle. Please contact your bank with any additional questions on this."
+          }
+        ]
+      },
+      {
+        "title": "I haven't received my funds yet.",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/360040086332-I-haven-t-received-my-funds-yet",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Merchant Fees & Payouts",
+          "Payment Method Settings and Getting Paid"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "If you haven't received your funds as expected, please first start by checking that your bank account is linked and verified. If no bank account is connected and verified, no funds will be deposited. To check, log in and select “Payment Methods” on the left-hand side. Ensure there is an account listed, and make sure that it has “Verified” in blue on the account. Note : International merchants do not need to verify their accounts at this time."
+          },
+          {
+            "type": "paragraph",
+            "text": "If no bank account is listed, select “Add Bank” to connect your bank account. Then follow the instructions here to link your account."
+          },
+          {
+            "type": "paragraph",
+            "text": "If the bank account listed is not yet verified, select \"Verify\" next to the account in question and enter the micro-deposit amounts you received exactly as they are listed on your bank statement. Finally, select your currency settings by selecting the bank account you would like to use to receive funds from US orders and Canadian orders in the Currency Settings table."
+          },
+          {
+            "type": "paragraph",
+            "text": "Once that's complete, or if you are an international merchant, please utilize the table at the top of the page to set up the account to receive funds. If an account is not set up to receive funds, we will not be able to send your funds to you."
+          },
+          {
+            "type": "paragraph",
+            "text": "If your bank account is connected, please navigate to your “Settlements” page. This will tell you the exact amount and date you should expect to see your funds transferred to your bank account. Selecting the “Processed” tab will show you all of the settlements we have fully processed for you. This page will also note if those funds are part of the “Standard” or “Interest” program – funds that have been processed and have a type of “Interest” are ones you will need to manually withdraw."
+          },
+          {
+            "type": "paragraph",
+            "text": "If you see the date listed has passed, the type is “Standard,” and you haven’t received your funds, please reach out to us directly by using the \"Submit a Request\" link at the top of this page. If the type is “Interest,” please manually withdraw those funds to your account (or leave them in to earn some money)."
+          },
+          {
+            "type": "paragraph",
+            "text": "Note: If you received funds, but the amount isn't what you expected, please look at your \"Withdrawal Account\" page - this will detail any adjustments (like refunds or referral bonuses) that may have impacted your final deposit amount."
+          }
+        ]
+      },
+      {
+        "title": "Why is my payout less than expected, or why do I have a negative balance?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/14766588432148-Why-is-my-payout-less-than-expected-or-why-do-I-have-a-negative-balance",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Merchant Fees & Payouts",
+          "Payment Method Settings and Getting Paid"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "If you're unsure of why your payout is less than expected or why you have a negative balance, these could be two possible reasons:"
+          },
+          {
+            "type": "number",
+            "number": 1,
+            "text": "The monthly $15 minimum gateway fee. Learn more about this fee and how to avoid it here: How do I know my fee?"
+          },
+          {
+            "type": "number",
+            "number": 2,
+            "text": "A refund was processed, and there were insufficient funds in your Refund Reserves. Learn more here: What are Refund Reserves?"
+          },
+          {
+            "type": "paragraph",
+            "text": "To ensure the responsible use of Sezzle, we will freeze a merchant's account if there is a negative balance."
+          },
+          {
+            "type": "paragraph",
+            "text": "While your account is frozen, you will be unable to connect a bank account or settle the debt with a card. In that case, we may invoice you for the amount owed. Please contact our support team here as soon as possible to resume Sezzle."
+          },
+          {
+            "type": "paragraph",
+            "text": "View our merchant agreement here for more information on fees. Please reach out if you need further assistance."
+          }
+        ]
+      },
+      {
+        "title": "Monthly Inactive Account Fee",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/33866816052244-Monthly-Inactive-Account-Fee",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Merchant Fees & Payouts",
+          "Fees"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "What is the Monthly Inactive Account Fee?"
+          },
+          {
+            "type": "paragraph",
+            "text": "The Monthly Inactive Account Fee is a fee applied to merchants with inactive Sezzle accounts that maintain a positive balance."
+          },
+          {
+            "type": "paragraph",
+            "text": "Who qualifies as an inactive merchant?"
+          },
+          {
+            "type": "paragraph",
+            "text": "A merchant is considered inactive if they have not (i)  captured a Sezzle order and (ii) failed to initiate settlement from the merchant’s sezzle account for 90 or more consecutive days."
+          },
+          {
+            "type": "paragraph",
+            "text": "How much is the Monthly Inactive Account Fee?"
+          },
+          {
+            "type": "paragraph",
+            "text": "The greater of 10% of the merchant account balance or $1000."
+          },
+          {
+            "type": "paragraph",
+            "text": "How is the fee applied?"
+          },
+          {
+            "type": "bullet",
+            "text": "The fee is automatically deducted from the merchant's account balance on file each month."
+          },
+          {
+            "type": "bullet",
+            "text": "The deductions will continue until the account is reactivated by processing a new Sezzle order, the balance is withdrawn by the merchant, or the balance reaches zero."
+          },
+          {
+            "type": "paragraph",
+            "text": "How can I avoid the Monthly Inactive Account Fee?"
+          },
+          {
+            "type": "paragraph",
+            "text": "To avoid this fee, ensure your account remains active by capturing at least one Sezzle order or withdrawing your balance every 90 days."
+          },
+          {
+            "type": "paragraph",
+            "text": "What happens if my account balance reaches zero?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Once the account balance reaches zero, no further fees will be charged. However, your account will remain inactive until reactivated."
+          },
+          {
+            "type": "paragraph",
+            "text": "Can I reactivate my Sezzle account?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Yes! You can reactivate your account by capturing new Sezzle orders or withdrawing your balance."
+          },
+          {
+            "type": "paragraph",
+            "text": "Who can I contact if I have additional questions?"
+          },
+          {
+            "type": "paragraph",
+            "text": "If you have any questions about the Monthly Inactive Account Fee or need help reactivating your account, please contact our support team by filling out this contact form !"
+          }
+        ]
+      },
+      {
+        "title": "How do I know my fee?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/360040086052-How-do-I-know-my-fee",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Merchant Fees & Payouts",
+          "Fees"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Also, see How much does Sezzle cost?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Our fees are listed in the Merchant Agreement that is signed upon applying with Sezzle. If for some reason, a different fee rate applies to your store, our approvals team will let you know your specific rate and billing date. Our fee covers all fraud and repayment risk, as well as any costs incurred while processing all payments for the shopper."
+          },
+          {
+            "type": "paragraph",
+            "text": "Order Processing Fee"
+          },
+          {
+            "type": "paragraph",
+            "text": "A set percentage of each order and a small processing fee is applied to all orders. You can see the total of these fees deducted from your orders right on the \"Orders\" page - it's clearly shown on all orders. We automatically deduct these fees when we process the order."
+          },
+          {
+            "type": "paragraph",
+            "text": "Minimum Account Management Fee"
+          },
+          {
+            "type": "paragraph",
+            "text": "If applicable, the monthly minimum account management fee can be found in the Settlements and Withdrawal accounts tab. This fee will be incurred if you complete less than $300 USD in order volume within the 30-day period before your billing date. The billing date is the same date as your approval date, and then every 30 days from there. For example, if you were approved on September 1st, your first billing date would be on October 1st, and then every 30 days after that."
+          },
+          {
+            "type": "paragraph",
+            "text": "Refund Fees"
+          },
+          {
+            "type": "paragraph",
+            "text": "If Sezzle is unable to issue refunds via your refund reserve account, we will require a credit/debit card on file to issue refunds. Any refunds issued through a credit/debit card will incur a refund fee. To avoid refund fees, learn more about Refund Reserves here."
+          },
+          {
+            "type": "paragraph",
+            "text": "Monthly Inactive Account Fee"
+          },
+          {
+            "type": "paragraph",
+            "text": "The Monthly Inactive Account Fee is a fee applied to merchants with inactive Sezzle accounts. For more information, please visit the Monthly Inactive Account Fee FAQ page ."
+          }
+        ]
+      },
+      {
+        "title": "How much does Sezzle cost?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/360040495151-How-much-does-Sezzle-cost",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Merchant Fees & Payouts",
+          "Fees"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Our platform operates by charging the following fees:"
+          },
+          {
+            "type": "number",
+            "number": 1,
+            "text": "Order Processing Fee - A set percentage of each order and a small processing fee for all merchants"
+          },
+          {
+            "type": "number",
+            "number": 2,
+            "text": "Monthly Minimum Account Management Fee - A $15 monthly fee for merchants with less than $300 USD of order processing volume within a 30-day period*"
+          },
+          {
+            "type": "number",
+            "number": 3,
+            "text": "Refund fee - for refunds issued using a credit/debit card on file**"
+          },
+          {
+            "type": "paragraph",
+            "text": "There are absolutely no sign-up or set-up costs!"
+          },
+          {
+            "type": "paragraph",
+            "text": "*The currency of the monthly minimum management fee is based on the merchant’s location. The $300 USD order processing requirement will be converted from the merchant’s currency."
+          },
+          {
+            "type": "paragraph",
+            "text": "**If Sezzle is unable to issue refunds via your refund reserve account, we will require a credit/debit card on file to issue refunds. Any refunds issued through a credit/debit card will incur a refund fee. To avoid refund fees, learn more about Refund Reserves here."
+          },
+          {
+            "type": "paragraph",
+            "text": "Upon signing up, the approvals team will let you know what rate applies to your store - the rate is determined by the type of products you offer, how long your store has been in business, and other factors. You can avoid the monthly minimum management fee by completing more than $300 USD in order volume every month."
+          },
+          {
+            "type": "paragraph",
+            "text": "For merchants, we help fight abandoned carts and give shoppers the confidence and ability to check out today, helping to increase conversion rates. We also collect our fee automatically, so there's never a worry about paying a monthly bill."
+          },
+          {
+            "type": "paragraph",
+            "text": "Last but not least, we help by covering all fraud and repayment risk, guaranteeing revenue. We pay merchants upfront and take on the entire risk associated with the delayed payments! Merchants never have to worry about how much a shopper has paid or when a shopper's installment plan is due."
+          },
+          {
+            "type": "paragraph",
+            "text": "To see a demo or get signed up, click here !"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Shopper Returns and Other Questions How to assist with adjustments to orders and other shopper concerns.",
+    "articles": [
+      {
+        "title": "How are refunds handled by Sezzle?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/360040496011-How-are-refunds-handled-by-Sezzle",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Shopper Returns and Other Questions",
+          "Shopper Refunds & Merchant Settings"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Channels through which refunds on Sezzle orders are processed:"
+          },
+          {
+            "type": "number",
+            "number": 1,
+            "text": "Through your eCommerce platform"
+          },
+          {
+            "type": "number",
+            "number": 2,
+            "text": "Through your Sezzle dashboard"
+          },
+          {
+            "type": "paragraph",
+            "text": "Accounts Sezzle will pull the funds from (in this order):"
+          },
+          {
+            "type": "number",
+            "number": 1,
+            "text": "Refund Reserves (preferred method, no fees)"
+          },
+          {
+            "type": "number",
+            "number": 2,
+            "text": "Interest Account"
+          },
+          {
+            "type": "number",
+            "number": 3,
+            "text": "Payouts"
+          },
+          {
+            "type": "number",
+            "number": 4,
+            "text": "A credit/debit card on file (incurs a fee)"
+          },
+          {
+            "type": "number",
+            "number": 5,
+            "text": "Bank account - only if we are unable to charge the card on file, or for cross-border transactions if there aren't sufficient funds in your Reserves or payouts."
+          },
+          {
+            "type": "paragraph",
+            "text": "Issuing refunds through your eCommerce platform"
+          },
+          {
+            "type": "paragraph",
+            "text": "For many platforms like Shopify and WooCommerce, issuing a refund via your e-commerce platform will automatically initiate a refund within Sezzle. You can successfully issue a Sezzle refund via your e-commerce platform if you have sufficient funds in your Sezzle account to cover the refund, or if you have an existing credit or debit card on file."
+          },
+          {
+            "type": "paragraph",
+            "text": "Issuing refunds through your Sezzle dashboard"
+          },
+          {
+            "type": "paragraph",
+            "text": "Alternatively, you can issue a refund directly through Sezzle by navigating to the “Orders” tab when logged into your Sezzle account. Select the order you would like to refund to expand the details, and then select “Full Refund” to issue the full amount back to the customer, or “Partial Refund” to specify an amount to refund. Please issue the correct amount of the refund – we’ll handle calculating how much to actually refund to the customer’s payment method. (Do not factor in how much the customer says that they have paid.)"
+          },
+          {
+            "type": "paragraph",
+            "text": "Note: Sezzle does not require that you have any specific refund policies - you are free to choose whatever refund policies best fit your business. We only ask that Sezzle shoppers be treated the same as any other shoppers. For example, if credit card orders are eligible for refunds, Sezzle orders would also be eligible for refunds."
+          }
+        ]
+      },
+      {
+        "title": "What ways can my shoppers receive their refund?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/11404836826516-What-ways-can-my-shoppers-receive-their-refund",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Shopper Returns and Other Questions",
+          "Shopper Refunds & Merchant Settings"
+        ],
+        "content": [
+          {
+            "type": "bullet",
+            "text": "Full Refunds"
+          },
+          {
+            "type": "bullet",
+            "text": "Partial Refunds"
+          },
+          {
+            "type": "bullet",
+            "text": "Store Credit"
+          },
+          {
+            "type": "paragraph",
+            "text": "Full Refunds"
+          },
+          {
+            "type": "paragraph",
+            "text": "When the full amount of the order is refunded, we cancel all unpaid installments on the order and refund any amount the shopper had paid. We also send the shopper an email letting them know about their refund."
+          },
+          {
+            "type": "paragraph",
+            "text": "Refunds are always sent back to the original payment method that was charged on the order - this is an industry standard. While refunds usually post back to their original payment method within 3 business days, it can take up to 10. As long as you see the refund in your \"Refunds\" tab, you've properly issued the refund, and there is nothing further you need to do."
+          },
+          {
+            "type": "paragraph",
+            "text": "Example: A full refund is issued on a $100 order. The shopper has only paid one installment of $25. The shopper's other three installments ($75 total) will be canceled, and $25 will be credited to their original payment method."
+          },
+          {
+            "type": "paragraph",
+            "text": "Partial Refunds"
+          },
+          {
+            "type": "paragraph",
+            "text": "We consider any refund amount that isn't the total order amount to be a partial refund. When a partial refund is issued, we will first cancel or reduce any unpaid installments, beginning with the final installment. If the refund amount is greater than all unpaid installments, a refund will be sent to the shopper's original payment method."
+          },
+          {
+            "type": "paragraph",
+            "text": "Refunds are always sent back to the original payment method that was charged on the order - this is an industry standard. While refunds usually post back to their original payment method within 3 business days, it can take up to 10. As long as you see the refund in your \"Refunds\" tab, you've properly issued the refund, and there is nothing further you need to do."
+          },
+          {
+            "type": "paragraph",
+            "text": "Example 1: A $75 refund is issued on a $100 order. The shopper has only paid one installment of $25. The shopper's other three installments will be canceled, as those installments equal $75; no refund will be credited to the original payment method."
+          },
+          {
+            "type": "paragraph",
+            "text": "Example 2: A $95 refund is issued on a $100 order. The shopper has only paid one installment of $25. The shopper's other three installments will be canceled - but as those installments only equal $75, a $20 refund will be credited to the original payment method."
+          },
+          {
+            "type": "paragraph",
+            "text": "Store Credit"
+          },
+          {
+            "type": "paragraph",
+            "text": "If store credit is issued, no changes are made to the shopper's payment plan. The shopper will continue to pay off their Sezzle order, as they are now essentially paying off a gift card."
+          }
+        ]
+      },
+      {
+        "title": "Why did my attempted refund fail?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/13745118545684-Why-did-my-attempted-refund-fail",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Shopper Returns and Other Questions",
+          "Shopper Refunds & Merchant Settings"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Sezzle has recently implemented Refund Reserves, or a reserve fund, which is money withheld from your Sezzle payouts to ensure there are funds available to cover refunds and disputes on your account. You either have not set this up, or do not have sufficient funds to settle all your refunds via the Refund reserve or pending payouts."
+          },
+          {
+            "type": "paragraph",
+            "text": "To solve for this:"
+          },
+          {
+            "type": "number",
+            "number": 1,
+            "text": "Log in to your merchant dashboard"
+          },
+          {
+            "type": "number",
+            "number": 2,
+            "text": "Go to Payment Methods under settings"
+          },
+          {
+            "type": "number",
+            "number": 3,
+            "text": "Add a credit/debit card to settle your current refunds"
+          },
+          {
+            "type": "paragraph",
+            "text": "From this tab, you can also set up your Refund Reserves. Reference the resources below for more information about Refund Reserves:"
+          },
+          {
+            "type": "bullet",
+            "text": "What are Refund Reserves?"
+          },
+          {
+            "type": "bullet",
+            "text": "How do I set up Refund Reserves in my account?"
+          },
+          {
+            "type": "bullet",
+            "text": "Why is Sezzle requiring a card on file to issue my refund?"
+          }
+        ]
+      },
+      {
+        "title": "Why is Sezzle requiring a card on file to issue my refund?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/11404698180372-Why-is-Sezzle-requiring-a-card-on-file-to-issue-my-refund",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Shopper Returns and Other Questions",
+          "Shopper Refunds & Merchant Settings"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Note that this process only applies to refunds in the same currency of the country from which they were ordered. If your business conducts cross-border transactions, those refunds will be processed from your bank account."
+          },
+          {
+            "type": "paragraph",
+            "text": "Sezzle has introduced the option for merchants to issue refunds via credit/debit card."
+          },
+          {
+            "type": "paragraph",
+            "text": "If Sezzle is unable to collect funds via reserves in your Sezzle account, we will require a credit/debit card on file to issue a refund. Per our merchant agreement , any refunds issued through a credit/debit card will incur a refund fee charged to the merchant."
+          },
+          {
+            "type": "paragraph",
+            "text": "To avoid any refund fees, Sezzle recommends you set up a Refund Reserve here to cover refunds. You can learn more about Refund Reserves here ."
+          },
+          {
+            "type": "paragraph",
+            "text": "Why is Sezzle introducing credit/debit cards to the refund process?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Sezzle needs to ensure that shoppers are protected and receive their refunds. Having a credit/debit card on file is a preventive measure that helps safeguard you and your shoppers and enables a smoother refund process."
+          },
+          {
+            "type": "paragraph",
+            "text": "Is using a credit/debit card to issue refunds required?"
+          },
+          {
+            "type": "paragraph",
+            "text": "If your account does not have any existing reserves and/or the card on file does not have sufficient funds, then yes, Sezzle will require a credit/debit card on file to issue the refund."
+          },
+          {
+            "type": "paragraph",
+            "text": "Which credit/debit cards will Sezzle accept to issue refunds?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Note that cards with an expiration date within 2 months will not be accepted."
+          },
+          {
+            "type": "paragraph",
+            "text": "How can I issue a refund using a credit/debit card?"
+          },
+          {
+            "type": "number",
+            "number": 1,
+            "text": "Log in to your Merchant Dashboard."
+          },
+          {
+            "type": "number",
+            "number": 2,
+            "text": "Go to the order to be refunded and click refund."
+          },
+          {
+            "type": "number",
+            "number": 3,
+            "text": "If you do not have enough funds in your Interest Account, Payouts, or Reserves, you must add a card."
+          },
+          {
+            "type": "number",
+            "number": 4,
+            "text": "Add the card that you desire to use for the refund payment."
+          },
+          {
+            "type": "number",
+            "number": 5,
+            "text": "Confirm payment and click submit."
+          },
+          {
+            "type": "paragraph",
+            "text": "Capital One and Chase do not allow their credit cards to be used with Buy Now, Pay Later services. Therefore, we no longer accept these as payment methods for Sezzle. Please contact your bank with any additional questions on this."
+          },
+          {
+            "type": "paragraph",
+            "text": "Also, we are not able to accept prepaid cards to be entered for refunds for US merchants."
+          },
+          {
+            "type": "paragraph",
+            "text": "Will issuing a refund via credit/debit card impact my refund policy?"
+          },
+          {
+            "type": "paragraph",
+            "text": "No, issuing a refund via credit/debit card will not impact your refund policy – you are free to choose whatever refund policies best fit your business."
+          },
+          {
+            "type": "paragraph",
+            "text": "How will this impact refunds issued via my e-commerce platform?"
+          },
+          {
+            "type": "paragraph",
+            "text": "If you have reserve funds available in your Sezzle account to cover the refund, or if you already have a credit or debit card on file, you will be able to issue the refund via your e-commerce platform. However, if you do not have funds available in your reserves or a credit or debit card on file when issuing the refund via your e-commerce platform, you will be required to issue the refund via the Sezzle Merchant Dashboard using a credit or debit card."
+          },
+          {
+            "type": "paragraph",
+            "text": "Will Sezzle collect refunds via my bank account on file?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Only if we are unable to charge the card on file or for cross-border transactions, or if there aren't sufficient funds in your Reserves or payouts."
+          }
+        ]
+      },
+      {
+        "title": "What are Refund Reserves?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/11402544791700-What-are-Refund-Reserves",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Shopper Returns and Other Questions",
+          "Shopper Refunds & Merchant Settings"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "A Refund Reserve is a minimum reserve in your Sezzle account used to cover refunds for your shoppers, ensuring a quick and seamless refund process."
+          },
+          {
+            "type": "paragraph",
+            "text": "A Refund Reserve, or a reserve fund, is money withheld from your Sezzle payouts to ensure there are funds available to cover refunds and disputes on your account. The minimum reserve amount is up to your discretion; however, we recommend withholding the equivalent of 3 days of Sezzle transaction volume to ensure your reserve account does not go negative."
+          },
+          {
+            "type": "paragraph",
+            "text": "If your Refund Reserves have sufficient funds to cover refunds, Sezzle will allow you to issue a refund and settle from the Refund Reserve."
+          },
+          {
+            "type": "paragraph",
+            "text": "Why is Sezzle introducing Refund Reserves?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Sezzle needs to ensure that shoppers are protected and receive their refunds. Maintaining a reserve balance in your Sezzle account is a preventive measure that helps safeguard you and your shoppers and enables a smoother refund process if required."
+          },
+          {
+            "type": "paragraph",
+            "text": "If Sezzle is unable to issue refunds via your refund reserve account, we will require a credit/debit card on file to issue refunds. Any refunds issued through a credit/debit card will incur a refund fee. To avoid refund fees, please set up your Refund Reserve here . The updated merchant agreement can be found here ."
+          },
+          {
+            "type": "paragraph",
+            "text": "When I set up a Refund Reserve, where will the funds come from?"
+          },
+          {
+            "type": "paragraph",
+            "text": "When you set up a Refund Reserve, you will not immediately see funds in the account.  This is because the funds will come from future settlements until the fund is at the amount you set."
+          },
+          {
+            "type": "paragraph",
+            "text": "How can I withdraw funds from my Refund Reserve?"
+          },
+          {
+            "type": "paragraph",
+            "text": "You can withdraw funds from your refund reserve by simply heading back to the Refund Reserve section of your Payment Method Settings. From there, you can switch the amount to zero and submit."
+          },
+          {
+            "type": "paragraph",
+            "text": "How do I set up Refund Reserves in my account?"
+          },
+          {
+            "type": "paragraph",
+            "text": "How do Refund Reserves impact refunds in my account?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Why is Sezzle requiring a card on file to issue my refund?"
+          }
+        ]
+      },
+      {
+        "title": "How do I set up Refund Reserves in my account?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/11402549400852-How-do-I-set-up-Refund-Reserves-in-my-account",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Shopper Returns and Other Questions",
+          "Shopper Refunds & Merchant Settings"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "See: What are Refund Reserves?"
+          },
+          {
+            "type": "number",
+            "number": 1,
+            "text": "Log in to your Merchant Dashboard"
+          },
+          {
+            "type": "number",
+            "number": 2,
+            "text": "Go to Payment Methods under Settings"
+          },
+          {
+            "type": "number",
+            "number": 3,
+            "text": "Go to “Add Refund Reserves,” and enter the currency and amount that you want your reserves to be set for."
+          },
+          {
+            "type": "number",
+            "number": 4,
+            "text": "Click “Hold My Money,” and you are all set!"
+          },
+          {
+            "type": "paragraph",
+            "text": "What if I don’t have the funds available in my Sezzle account that I’d like to assign to Refund Reserves at the time of setting it up?"
+          },
+          {
+            "type": "paragraph",
+            "text": "That’s okay! The amount will be held from incoming / new orders. Just make sure it’s an amount that makes sense for the usual number of Sezzle orders you receive."
+          },
+          {
+            "type": "paragraph",
+            "text": "I have U.S. and Canadian shoppers. Do I need to set up Refund Reserves for both?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Yes. You will need to “add reserves” for both USD and CAD separately. We would recommend basing your minimums on the bulk of the currency that your orders come through."
+          },
+          {
+            "type": "paragraph",
+            "text": "How do Refund Reserves impact refunds in my account?"
+          }
+        ]
+      },
+      {
+        "title": "My shopper wants to change or return their order. What do I do?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/360040495791-My-shopper-wants-to-change-or-return-their-order-What-do-I-do",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Shopper Returns and Other Questions",
+          "Returns and Disputes"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Whether a shopper wants to return, cancel, exchange, or modify their order, we ask that they reach out to you as the merchant directly. Since we don't have access to your e-commerce platform, we are unable to make any modifications to orders or initiate any refunds."
+          },
+          {
+            "type": "paragraph",
+            "text": "We do not have any restrictions on what kind of policies you offer at your store - whether you issue full refunds, keep a restocking fee, or just issue store credit is entirely up to you. We just ask that all transactions – Sezzle or otherwise – have the same policies applied to them."
+          },
+          {
+            "type": "paragraph",
+            "text": "Should the situation warrant a refund, Sezzle will be able to process the refund you decide to issue using your card on file or via existing reserves in your account. Should you have existing funds or a card on file, platforms like Shopify and WooCommerce have a seamless Sezzle integration that will allow you to issue a refund from within those platforms and then have the refund sync back to your Sezzle account. You can also always issue a refund through Sezzle directly. Refunds are automatically subtracted from your Refund Reserves and/or the card on file, and can be seen in the \"Refunds\" tab."
+          },
+          {
+            "type": "bullet",
+            "text": "What are Refund Reserves?"
+          },
+          {
+            "type": "bullet",
+            "text": "Why is Sezzle requiring a credit/debit card on file to issue my refund?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Regardless of how much the customer has paid, please issue a refund as though they have paid in full - we will handle adjusting their repayment plan for you! (See: How are refunds handled by Sezzle? )"
+          },
+          {
+            "type": "paragraph",
+            "text": "We are unable to reverse or alter refunds once they have begun processing. Never issue a refund via cash, as if the customer states they did not receive their refund, you will not have a way to verify it was issued. Additionally, please do not issue refunds through alternate platforms, like PayPal or Venmo."
+          }
+        ]
+      },
+      {
+        "title": "I was told I have a dispute. What do I do?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/360040086632-I-was-told-I-have-a-dispute-What-do-I-do",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Shopper Returns and Other Questions",
+          "Returns and Disputes"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "When a dispute is opened, we will provide additional information within the dispute itself, explaining why it was opened and what information we need to resolve the dispute."
+          },
+          {
+            "type": "paragraph",
+            "text": "This can be accessed by logging into your Sezzle merchant dashboard, selecting \"Disputes\" on the left, selecting the dispute in question, and then selecting \"Manage Dispute.\" You'll then see why the customer disputed the transaction in their own words, and if you select \"View Conversation,\" you'll see the message from us indicating the information we deem necessary to resolve the dispute. You can then provide a response within the portal directly, which we will see and review. If the information you provide is enough to resolve the dispute, we will close it out. If more information is required, we will request additional information as we deem necessary."
+          },
+          {
+            "type": "paragraph",
+            "text": "You can also issue either a full or a partial refund right from the dispute window, which we recommend doing to ensure the wrong order isn't refunded (we typically see this in instances of customers with multiple orders from the same merchant)."
+          },
+          {
+            "type": "paragraph",
+            "text": "Please provide your response within the dispute portal itself, as this ensures our dispute team is able to pair your information with the specific order in question. The portal communicates with us directly, not with the shopper - we then pass along any relevant information to the shopper."
+          },
+          {
+            "type": "paragraph",
+            "text": "Most commonly, the information we request from merchants involves tracking showing movement of the merchandise (not in label-created or pre-shipment status), an RMA number, or a refund to resolve the dispute. We do completely understand there may be disputes that can't be resolved immediately, so feel free to use the conversation portal to communicate with us regarding the situation. You can even upload supporting documents!"
+          }
+        ]
+      },
+      {
+        "title": "Does Sezzle offer an Express checkout option?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/40580228121236-Does-Sezzle-offer-an-Express-checkout-option",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Shopper Returns and Other Questions",
+          "Other Shopper Concerns"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Currently, Sezzle offers an Express Checkout option with Customer Integrations. In the near future, Sezzle hopes to offer this option for other popular e-commerce platforms."
+          },
+          {
+            "type": "paragraph",
+            "text": "Benefits of offering a Sezzle Express Checkout option include:"
+          },
+          {
+            "type": "bullet",
+            "text": "Reduce Cart Abandonment: Allow users to skip lengthy forms."
+          },
+          {
+            "type": "bullet",
+            "text": "Drive Return Customers: Easy checkout for building customer loyalty."
+          },
+          {
+            "type": "bullet",
+            "text": "Seamless Integration: Easily fits into your current checkout flow."
+          },
+          {
+            "type": "paragraph",
+            "text": "For the guide and instructions on how to add this option to your Custom Integration with Sezzle, please visit the Express Checkout section of our Sezzle Integration Documentation here !"
+          },
+          {
+            "type": "paragraph",
+            "text": "If you have any questions regarding the Express Checkout option for Sezzle, please reach out to our Merchant Experience Team at accounts@sezzle.com ."
+          }
+        ]
+      },
+      {
+        "title": "What is the shopper's experience with long-term financing purchases?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/10837333047060-What-is-the-shopper-s-experience-with-long-term-financing-purchases",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Shopper Returns and Other Questions",
+          "Other Shopper Concerns"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Payment plans are now being offered to shoppers that span longer than the usual six-week period for higher-priced items, with no hard credit checks required. Long-term financing is available for U.S. Sezzle merchants only. There are a number of merchant requirements set by our system for approval, and we do not have a way to guarantee it will be available for a specific merchant."
+          },
+          {
+            "type": "paragraph",
+            "text": "If the order qualifies for long-term financing, the shopper will be prompted at checkout to get prequalified or check their eligibility with one of Sezzle’s long-term financing options or partners (Bread Financial™). Not all shoppers may receive long-term financing credit limits. There are no hard credit checks for shoppers."
+          },
+          {
+            "type": "paragraph",
+            "text": "What financing options are available for shoppers?"
+          },
+          {
+            "type": "paragraph",
+            "text": "For purchases between $150 and $15,000, we offer a 3-month plan at 0% APR for well-qualified buyers, along with plans between 3-48 months at 9.99% - 34.99% APR."
+          },
+          {
+            "type": "paragraph",
+            "text": "How do shoppers manage their loans?"
+          },
+          {
+            "type": "paragraph",
+            "text": "Shoppers will manage their loan through the lender’s customer portal. There is a link to the lender’s portal in their order details in their Sezzle Customer Dashboard."
+          },
+          {
+            "type": "paragraph",
+            "text": "Links to Shopper FAQs for your reference:"
+          },
+          {
+            "type": "bullet",
+            "text": "How do I manage my Sezzle long-term financing payments?"
+          },
+          {
+            "type": "bullet",
+            "text": "Placing an order with Sezzle using long-term financing"
+          },
+          {
+            "type": "bullet",
+            "text": "How do I manage my long-term financing account information?"
+          },
+          {
+            "type": "bullet",
+            "text": "How do refunds work for Sezzle’s long-term financing partners?"
+          }
+        ]
+      },
+      {
+        "title": "Is there an order minimum on Sezzle orders?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/5939246718228-Is-there-an-order-minimum-on-Sezzle-orders",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Shopper Returns and Other Questions",
+          "Other Shopper Concerns"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "The minimum order amounts with Sezzle are as follows:"
+          },
+          {
+            "type": "bullet",
+            "text": "Pay-in-5: $50"
+          },
+          {
+            "type": "bullet",
+            "text": "Pay-in-4: $20"
+          },
+          {
+            "type": "bullet",
+            "text": "Pay-in-2: $10"
+          },
+          {
+            "type": "paragraph",
+            "text": "Learn more about pay-in-2 here. All minimums are listed in USD* (including tax and all other fees)."
+          },
+          {
+            "type": "paragraph",
+            "text": "All purchase amounts must meet this threshold before shoppers are able to use Sezzle at your stores. If a shopper's total comes to less than the above amounts, they will be declined for the order and notified in the checkout experience, as well as through email and text."
+          },
+          {
+            "type": "paragraph",
+            "text": "Depending on your preferences, inventory, processing costs, etc., you can set a minimum order amount higher than the Sezzle minimums. See \" Can I set a minimum order amount? \" for instructions on how to set this up. At this time, we are unable to lower the minimum order amount."
+          },
+          {
+            "type": "paragraph",
+            "text": "*Canadian minimum order requirements will be CAD converted from USD."
+          }
+        ]
+      },
+      {
+        "title": "My shopper is having an issue related to Sezzle. How do I help them?",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/360040496051-My-shopper-is-having-an-issue-related-to-Sezzle-How-do-I-help-them",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Shopper Returns and Other Questions",
+          "Other Shopper Concerns"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "While we understand wanting to help your shoppers get their questions answered, due to privacy concerns, we are unable to provide specific information to anyone but the shopper directly."
+          },
+          {
+            "type": "paragraph",
+            "text": "We always recommend shoppers reach out to us at shoppersupport@sezzle.com and provide the phone number they used at sign-up. Once we have this information, we can find their account and get them the information they need to resolve the issue. You can also point them to our Shopper FAQ - this page will have the answers to many of their questions! Shoppers can access the Shopper FAQ by going to help.sezzle.com ."
+          }
+        ]
+      },
+      {
+        "title": "My shopper was charged, but I don't see an order.",
+        "url": "https://merchant-help.sezzle.com/hc/en-us/articles/360040496031-My-shopper-was-charged-but-I-don-t-see-an-order",
+        "breadcrumbs": [
+          "Sezzle Merchant Support",
+          "Shopper Returns and Other Questions",
+          "Other Shopper Concerns"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "If you have a shopper saying they were charged, but you don't see any record of their order in your e-commerce platform or within your Sezzle account (under the \"Orders\" page), they're likely seeing a pre-authorization charge, which is just a temporary hold on the funds."
+          },
+          {
+            "type": "paragraph",
+            "text": "Nearly every card processor will pre-authorize funds for a transaction, and when the transaction does not complete, those pre-authorizations automatically fall off. Typically, this happens within the hour, but depending on the shopper's payment method, it may take up to 3 business days. These charges are typically found in the \"pending\" section of their payment method."
+          },
+          {
+            "type": "paragraph",
+            "text": "In situations like these, we recommend having the customer reach out to us directly, as we can provide them with more information specific to their order and their account. They can reach us at shoppersupport@sezzle.com ."
+          },
+          {
+            "type": "paragraph",
+            "text": "If you see the order came through to your Sezzle account, but you can't find it in your e-commerce platform, please reach out to us by using the \"Submit a request\" button at the top of the page so that we can investigate further."
+          },
+          {
+            "type": "paragraph",
+            "text": "Also, there might be an issue with the order not being captured, but only authorized.  For more information, please see our integration documentation here ."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,333 @@
+[
+  {
+    "title": "Getting Started Get started as a Sezzle Partner — from creating your account to completing onboarding and sending your first referrals.",
+    "articles": [
+      {
+        "title": "Issues Signing Up",
+        "url": "https://partnersupport-sezzle.zendesk.com/hc/en-us/articles/40302855673108-Issues-Signing-Up",
+        "breadcrumbs": [
+          "Partner Support",
+          "Getting Started",
+          "Sign-Up & Onboarding"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "If you are unable to log in or are having issues signing up for a partner account, it may be because you already have a merchant or shopper account with Sezzle. If so, we recommend opening a private or incognito browser window to complete the partner sign-up process."
+          }
+        ]
+      },
+      {
+        "title": "I submitted an application but haven’t heard back",
+        "url": "https://partnersupport-sezzle.zendesk.com/hc/en-us/articles/40302935976340-I-submitted-an-application-but-haven-t-heard-back",
+        "breadcrumbs": [
+          "Partner Support",
+          "Getting Started",
+          "Sign-Up & Onboarding"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Once your application is submitted, a member of our approvals team will be in touch with you within five business days. Please check the email address you used at sign-up, as this is how you'll receive further correspondence (including any requests for additional information). Once you're approved, you'll get instructions on how to set us up!"
+          },
+          {
+            "type": "paragraph",
+            "text": "We recommend checking your junk/spam folders to see if you missed their message. You should also see an email verification message from us—if you did not receive this email, you might be checking under the wrong email address. If your email isn't verified, we do not consider your application to be fully submitted."
+          },
+          {
+            "type": "paragraph",
+            "text": "If you have questions, feel free to email us at partners@sezzle.com ."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Referral Program Learn how to share Sezzle with merchants, track your referrals, and understand how the program works.",
+    "articles": [
+      {
+        "title": "How to View the Revenue You’ve Earned from Referrals",
+        "url": "https://partnersupport-sezzle.zendesk.com/hc/en-us/articles/40303097155988-How-to-View-the-Revenue-You-ve-Earned-from-Referrals",
+        "breadcrumbs": [
+          "Partner Support",
+          "Referral Program",
+          "Referring & Tracking"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "You can view your referral earnings directly from your Sezzle Dashboard:"
+          },
+          {
+            "type": "number",
+            "number": 1,
+            "text": "Log in to your Partner Dashboard: https://dashboard.sezzle.com/"
+          },
+          {
+            "type": "number",
+            "number": 2,
+            "text": "In the left-hand menu, click Revenue Breakdown."
+          },
+          {
+            "type": "number",
+            "number": 3,
+            "text": "Use the dropdown menu to select the month and year you'd like to review."
+          },
+          {
+            "type": "number",
+            "number": 4,
+            "text": "Once selected, you’ll see a detailed summary that includes:"
+          },
+          {
+            "type": "bullet",
+            "text": "Referred Merchant Name"
+          },
+          {
+            "type": "bullet",
+            "text": "Earnings (commission received)"
+          },
+          {
+            "type": "bullet",
+            "text": "Order Volume"
+          },
+          {
+            "type": "bullet",
+            "text": "Merchant Fees"
+          },
+          {
+            "type": "bullet",
+            "text": "Order Count"
+          },
+          {
+            "type": "bullet",
+            "text": "Currency"
+          }
+        ]
+      },
+      {
+        "title": "What Are the Program Terms?",
+        "url": "https://partnersupport-sezzle.zendesk.com/hc/en-us/articles/40303073876372-What-Are-the-Program-Terms",
+        "breadcrumbs": [
+          "Partner Support",
+          "Referral Program",
+          "Referring & Tracking"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Referral partners earn 10% of Merchant Fee Revenue for 1 year."
+          }
+        ]
+      },
+      {
+        "title": "How to View Referred Merchants",
+        "url": "https://partnersupport-sezzle.zendesk.com/hc/en-us/articles/40303072889108-How-to-View-Referred-Merchants",
+        "breadcrumbs": [
+          "Partner Support",
+          "Referral Program",
+          "Referring & Tracking"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "You can easily track who you’ve referred right from your Sezzle Dashboard:"
+          },
+          {
+            "type": "number",
+            "number": 1,
+            "text": "Log in to your Partner Dashboard: https://dashboard.sezzle.com/"
+          },
+          {
+            "type": "number",
+            "number": 2,
+            "text": "In the left-hand menu, go to Settings."
+          },
+          {
+            "type": "number",
+            "number": 3,
+            "text": "Under the Management section, click Referral Program."
+          },
+          {
+            "type": "number",
+            "number": 4,
+            "text": "At the top of the page, you'll see two tabs: Refer and History."
+          },
+          {
+            "type": "number",
+            "number": 5,
+            "text": "Click on History to view a list of all your referred merchants, including:"
+          },
+          {
+            "type": "bullet",
+            "text": "Merchant name"
+          },
+          {
+            "type": "bullet",
+            "text": "Registration date"
+          },
+          {
+            "type": "bullet",
+            "text": "Website URL"
+          },
+          {
+            "type": "paragraph",
+            "text": "This section helps you keep track of your referral activity and see who’s signed up using your link or code."
+          }
+        ]
+      },
+      {
+        "title": "How to Refer Merchants",
+        "url": "https://partnersupport-sezzle.zendesk.com/hc/en-us/articles/40303088694804-How-to-Refer-Merchants",
+        "breadcrumbs": [
+          "Partner Support",
+          "Referral Program",
+          "Referring & Tracking"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Referring a merchant is quick and easy. Just follow these steps from your Sezzle Dashboard:"
+          },
+          {
+            "type": "number",
+            "number": 1,
+            "text": "Log in to your Partner Dashboard: https://dashboard.sezzle.com/"
+          },
+          {
+            "type": "number",
+            "number": 2,
+            "text": "In the left-hand menu, go to Settings."
+          },
+          {
+            "type": "number",
+            "number": 3,
+            "text": "Under the Management section, select Referral Program."
+          },
+          {
+            "type": "number",
+            "number": 4,
+            "text": "Choose one of the following referral options:"
+          },
+          {
+            "type": "bullet",
+            "text": "Enter a Recipient’s Email: Send a personalized referral directly from your dashboard. Just enter the merchant’s email and an optional message. They'll receive a sign-up link in their inbox."
+          },
+          {
+            "type": "bullet",
+            "text": "Share Your Referral Code: Provide your unique referral code to the merchant. They can enter it during their sign-up process."
+          },
+          {
+            "type": "bullet",
+            "text": "Copy and Share Your Referral Link: Grab your custom referral link and send it via email, chat, or however you prefer. When they use it to sign up, they’ll be automatically connected to your referral."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Payments & Payouts Find out how payouts work, when they’re sent, and what to check if you think something’s missing.",
+    "articles": [
+      {
+        "title": "Not Receiving Payouts",
+        "url": "https://partnersupport-sezzle.zendesk.com/hc/en-us/articles/40303151478932-Not-Receiving-Payouts",
+        "breadcrumbs": [
+          "Partner Support",
+          "Payments & Payouts",
+          "Earnings & Payment Schedule"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "How can I start receiving payouts?"
+          },
+          {
+            "type": "paragraph",
+            "text": "To start receiving payouts, first make sure you’ve completed all of the onboarding steps in your partner dashboard setup checklist. The following steps must be completed in order to receive payouts:"
+          },
+          {
+            "type": "bullet",
+            "text": "Link a bank account"
+          },
+          {
+            "type": "bullet",
+            "text": "Set your currency"
+          },
+          {
+            "type": "bullet",
+            "text": "Submit your W9"
+          },
+          {
+            "type": "paragraph",
+            "text": "If you’ve completed these steps and are not receiving your payouts, please note the following."
+          },
+          {
+            "type": "paragraph",
+            "text": "Payouts will occur on the 15th of each Quarter , not every day."
+          },
+          {
+            "type": "paragraph",
+            "text": "If you need help with your payouts, feel free to email us at partners@sezzle.com ."
+          }
+        ]
+      },
+      {
+        "title": "When Will I Receive Payment?",
+        "url": "https://partnersupport-sezzle.zendesk.com/hc/en-us/articles/40303120730900-When-Will-I-Receive-Payment",
+        "breadcrumbs": [
+          "Partner Support",
+          "Payments & Payouts",
+          "Earnings & Payment Schedule"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Payouts will occur on the 15th of each Quarter , not every day."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Support & Contact Need a hand? Here’s how to connect with our team for help with your partner account or the referral program.",
+    "articles": [
+      {
+        "title": "How to Contact Partner Support",
+        "url": "https://partnersupport-sezzle.zendesk.com/hc/en-us/articles/40303193664276-How-to-Contact-Partner-Support",
+        "breadcrumbs": [
+          "Partner Support",
+          "Support & Contact",
+          "Get in Touch"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "If you have questions, feel free to email us at partners@sezzle.com ."
+          }
+        ]
+      },
+      {
+        "title": "Support Options for Shoppers & Merchants",
+        "url": "https://partnersupport-sezzle.zendesk.com/hc/en-us/articles/40482405687572-Support-Options-for-Shoppers-Merchants",
+        "breadcrumbs": [
+          "Partner Support",
+          "Support & Contact",
+          "Get in Touch"
+        ],
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "If you’re a Shopper or Merchant looking for frequently asked questions or need help contacting support, click one of the links below:"
+          },
+          {
+            "type": "bullet",
+            "text": "Shopper FAQs & Support → Click here"
+          },
+          {
+            "type": "bullet",
+            "text": "Merchant FAQs & Support → Click here"
+          }
+        ]
+      }
+    ]
+  }
+]
