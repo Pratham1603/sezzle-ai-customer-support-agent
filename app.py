@@ -1,5 +1,5 @@
 """
-main.py
+app.py
 -------
 Sezzle AI Customer Support Bot (FastAPI)
 """
