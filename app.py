@@ -295,6 +295,7 @@ def execute_agent_action(intent, query):
 
         if not order_id:
             return {
+                "success": False,
                 "message": "Please provide an order ID (Example: SZ1234)"
             }
 
@@ -304,6 +305,7 @@ def execute_agent_action(intent, query):
 
         if not order_id:
             return {
+                "success": False,
                 "message": "Please provide an order ID (Example: SZ1234)"
             }
 
@@ -313,6 +315,7 @@ def execute_agent_action(intent, query):
 
         if not order_id:
             return {
+                "success": False,
                 "message": "Please provide an order ID (Example: SZ1234)"
             }
 
@@ -344,6 +347,21 @@ def get_analytics():
     cursor.execute("SELECT COUNT(*) FROM conversations WHERE escalate=1")
     escalations = cursor.fetchone()[0]
 
+    # 👇 ADD THIS HERE
+    cursor.execute("""
+    SELECT intent, COUNT(*)
+    FROM conversations
+    GROUP BY intent
+    """)
+
+    intent_data = dict(cursor.fetchall())
+
+    cursor.execute("""
+    SELECT AVG(confidence)
+    FROM conversations
+    """)
+    avg_confidence = cursor.fetchone()[0] or 0
+
     conn.close()
 
     return {
@@ -351,7 +369,9 @@ def get_analytics():
         "refund_requests": refund_requests,
         "cancel_orders": cancel_orders,
         "order_status_requests": order_status_requests,
-        "escalations": escalations
+        "escalations": escalations,
+        "intent_distribution": intent_data,
+        "avg_confidence": round(avg_confidence, 2)
     }
 
 # ==================================================
@@ -398,6 +418,21 @@ async def chat(msg: str = Form(...)):
 
         print("Agent Executed")
         print(agent_result)
+
+        if not agent_result.get("success", True):
+
+            save_conversation(
+                query=msg,
+                intent=intent,
+                confidence=1.0,
+                escalate=False
+            )
+
+            return {
+                "agent_action": True,
+                "intent": intent,
+                "answer": agent_result["message"]
+            }
 
         answer = ""
 
@@ -492,3 +527,65 @@ async def chat(msg: str = Form(...)):
         "confidence_level": level,
         "escalate": False
     }
+
+from database import get_connection
+
+@app.get("/recent-conversations")
+async def recent_conversations():
+
+    conn = get_connection()
+    cursor = conn.cursor()
+
+    cursor.execute("""
+    SELECT
+        query,
+        intent,
+        confidence,
+        escalate,
+        timestamp
+    FROM conversations
+    ORDER BY id DESC
+    LIMIT 10
+    """)
+
+    rows = cursor.fetchall()
+
+    conn.close()
+
+    return [
+        {
+            "query": row[0],
+            "intent": row[1],
+            "confidence": row[2],
+            "escalate": bool(row[3]),
+            "timestamp": row[4]
+        }
+        for row in rows
+    ]
+
+@app.get("/daily-trends")
+async def daily_trends():
+
+    conn = get_connection()
+    cursor = conn.cursor()
+
+    cursor.execute("""
+    SELECT
+        DATE(timestamp) as day,
+        COUNT(*) as conversations
+    FROM conversations
+    GROUP BY DATE(timestamp)
+    ORDER BY day
+    """)
+
+    rows = cursor.fetchall()
+
+    conn.close()
+
+    return [
+        {
+            "date": row[0],
+            "conversations": row[1]
+        }
+        for row in rows
+    ]

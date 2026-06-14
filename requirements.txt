@@ -19,5 +19,6 @@ fastapi
 uvicorn
 python-multipart
 wasabi
+streamlit
 
 -e .
