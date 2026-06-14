@@ -22,6 +22,11 @@ orders = {
     }
 }
 
+from database import (
+    init_db,
+    save_conversation
+)
+
 from fastapi import FastAPI, Form
 from fastapi.middleware.cors import CORSMiddleware
 from wasabi import msg
@@ -38,6 +43,7 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
 
 from fastapi.responses import HTMLResponse
 from dotenv import load_dotenv
@@ -314,11 +320,48 @@ def execute_agent_action(intent, query):
 
     return None
 
+from database import get_connection
+
+def get_analytics():
+    conn = get_connection()
+    cursor = conn.cursor()
+
+    # total conversations
+    cursor.execute("SELECT COUNT(*) FROM conversations")
+    total_conversations = cursor.fetchone()[0]
+
+    # intents breakdown
+    cursor.execute("SELECT COUNT(*) FROM conversations WHERE intent='refund_request'")
+    refund_requests = cursor.fetchone()[0]
+
+    cursor.execute("SELECT COUNT(*) FROM conversations WHERE intent='cancel_order'")
+    cancel_orders = cursor.fetchone()[0]
+
+    cursor.execute("SELECT COUNT(*) FROM conversations WHERE intent='order_status'")
+    order_status_requests = cursor.fetchone()[0]
+
+    # escalations
+    cursor.execute("SELECT COUNT(*) FROM conversations WHERE escalate=1")
+    escalations = cursor.fetchone()[0]
+
+    conn.close()
+
+    return {
+        "total_conversations": total_conversations,
+        "refund_requests": refund_requests,
+        "cancel_orders": cancel_orders,
+        "order_status_requests": order_status_requests,
+        "escalations": escalations
+    }
+
 # ==================================================
 # Routes
 # ==================================================
 
 from fastapi.responses import FileResponse
+
+# Create tables when app starts
+init_db()
 
 @app.get("/")
 async def home():
@@ -331,6 +374,9 @@ async def health():
         "status": "healthy"
     }
 
+@app.get("/analytics")
+async def analytics():
+    return get_analytics()
 
 @app.post("/get")
 async def chat(msg: str = Form(...)):
@@ -377,6 +423,18 @@ async def chat(msg: str = Form(...)):
                 f"is currently {agent_result['status']}."
             )
 
+        # Save for ALL agent actions
+        print("Saving agent conversation...")
+
+        save_conversation(
+            query=msg,
+            intent=intent,
+            confidence=1.0,
+            escalate=False
+        )
+
+        print("Agent conversation saved.")
+
         return {
             "agent_action": True,
             "intent": intent,
@@ -398,6 +456,13 @@ async def chat(msg: str = Form(...)):
 
     if escalate:
 
+        save_conversation(
+            query=msg,
+            intent=intent,
+            confidence=confidence,
+            escalate=True
+        )
+
         return {
             "answer":
             "I'm not confident enough to answer this question. Please contact Sezzle support.",
@@ -412,6 +477,13 @@ async def chat(msg: str = Form(...)):
     print(f"Intent: {intent}")
     print(f"Confidence: {confidence}")
     print(f"Bot: {answer}")
+
+    save_conversation(
+        query=msg,
+        intent=intent,
+        confidence=confidence,
+        escalate=False
+    )
 
     return {
         "answer": answer,
