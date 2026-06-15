@@ -13,7 +13,7 @@ html, body, #root {
 body {
   background:
     linear-gradient(rgba(9, 6, 7, 0.58), rgba(9, 6, 7, 0.62)),
-    url("/sezzle.png");
+    url("/sezzle.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
