@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import pandas as pd
 
-API_URL = "http://127.0.0.1:8000/analytics"
+API_URL = "https://harerpratham-sezzle-ai-customer-support-agent.hf.space/analytics"
 
 st.set_page_config(
     page_title="Sezzle AI Dashboard",
@@ -75,7 +75,7 @@ st.divider()
 st.subheader("💬 Recent Conversations")
 
 recent = requests.get(
-    "http://127.0.0.1:8000/recent-conversations"
+    "https://harerpratham-sezzle-ai-customer-support-agent.hf.space/recent-conversations"
 ).json()
 
 recent_df = pd.DataFrame(recent)
@@ -90,7 +90,7 @@ st.divider()
 st.subheader("📈 Daily Conversation Trend")
 
 trend_data = requests.get(
-    "http://127.0.0.1:8000/daily-trends"
+    "https://harerpratham-sezzle-ai-customer-support-agent.hf.space/daily-trends"
 ).json()
 
 trend_df = pd.DataFrame(trend_data)
