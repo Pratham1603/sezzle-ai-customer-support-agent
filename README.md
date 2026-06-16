@@ -1,6 +1,14 @@
-<div align="center">
+<p align="center">
+  <img src="images/header.png" alt="Sezzle AI Customer Support Agent" width="1000"/>
+</p>
 
-# Sezzle AI Customer Support Agent
+---
+
+<h3 align="center">Unofficial Sezzle AI Customer Support Chatbot & Agent</h3>
+
+---
+
+<div align="center">
 
 ### A Retrieval-Augmented Generation (RAG) powered AI support agent for Sezzle, built with intent classification, agentic order actions, confidence-based escalation, and a real-time analytics dashboard.
 
