@@ -83,84 +83,34 @@ The system is wrapped in a **FastAPI** backend, a polished **React + Framer Moti
 
 ## Screenshots
 
-> _Add screenshots of the chat widget, analytics dashboard, and example conversations below._
+### Chatbot 
+<p align="center">
+  <img src="images/chat_widget.png" alt="Sezzle AI Customer Support Agent" width="1000"/>
+</p>
 
-<table>
-  <tr>
-    <td align="center"><b>Chat Widget</b></td>
-    <td align="center"><b>Agentic Order Action</b></td>
-  </tr>
-  <tr>
-    <td><img src="docs/screenshots/chat-widget.png" alt="Chat widget screenshot" width="400"/></td>
-    <td><img src="docs/screenshots/agent-action.png" alt="Agent action screenshot" width="400"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Escalation Flow</b></td>
-    <td align="center"><b>Analytics Dashboard</b></td>
-  </tr>
-  <tr>
-    <td><img src="docs/screenshots/escalation.png" alt="Escalation screenshot" width="400"/></td>
-    <td><img src="docs/screenshots/dashboard.png" alt="Dashboard screenshot" width="400"/></td>
-  </tr>
-</table>
+### Sqite Database
+<p align="center">
+  <img src="images/Sqlite_db.png" alt="Sezzle AI Customer Support Agent" width="1000"/>
+</p>
 
-> Tip: create a `docs/screenshots/` folder in the repo and drop your images there with the filenames above — they'll render automatically once added.
+### Streamlit dashboard
+<p align="center">
+  <img src="images/dashboard.png" alt="Sezzle AI Customer Support Agent" width="1000"/>
+</p>
 
 ---
 
 ## Architecture
 
-```
-                          ┌─────────────────────────┐
-                          │     React Chat Widget    │
-                          │  (Framer Motion + Vite)  │
-                          └────────────┬─────────────┘
-                                        │ POST /get
-                                        ▼
-┌──────────────────────────────────────────────────────────────────┐
-│                          FastAPI Backend (app.py)                  │
-│                                                                      │
-│   ┌───────────────┐     ┌────────────────────┐                     │
-│   │ Intent Router  │────▶│ Agentic Action Layer│──▶ Mock Order DB   │
-│   │ (Groq LLM)     │     │ cancel / refund /   │   (in-memory)      │
-│   └───────────────┘     │ order status        │                     │
-│           │              └────────────────────┘                     │
-│           ▼                                                          │
-│   ┌───────────────────────────────────────────┐                     │
-│   │           RAG QA Chain (LangChain)         │                     │
-│   │                                              │                     │
-│   │  Retriever ──▶ Pinecone Vector Store        │                     │
-│   │  (BAAI/bge-base-en-v1.5 embeddings, k=5)    │                     │
-│   │                                              │                     │
-│   │  Context + Query ──▶ Grounded Prompt        │                     │
-│   │       └──▶ ChatGroq (Llama-3.3-70B) ──▶ Answer                    │
-│   └───────────────────────────────────────────┘                     │
-│           │                                                          │
-│           ▼                                                          │
-│   Confidence Scoring ──▶ Escalate if score < 0.60                    │
-│           │                                                          │
-│           ▼                                                          │
-│   SQLite Logging (database.py) ──▶ /analytics, /recent-conversations,│
-│                                       /daily-trends                  │
-└──────────────────────────────────────────────────────────────────┘
-                                        │
-                                        ▼
-                          ┌─────────────────────────┐
-                          │  Streamlit Analytics      │
-                          │  Dashboard (streamlit_app)│
-                          └─────────────────────────┘
-```
+<p align="center">
+  <img src="images/Arch.png" alt="Sezzle AI Customer Support Agent" width="1000"/>
+</p>
 
 ### Data Pipeline (Offline / One-Time)
 
-```
-data/shopper_help_center.json   ┐
-data/merchant_help_center.json  ┼──▶ load_sezzle_json() ──▶ clean_text() ──▶ chunk_documents()
-                                 ┘            (src/helper.py)
-
-   ──▶ HuggingFace Embeddings (BAAI/bge-base-en-v1.5)
-   ──▶ Pinecone Index "sezzle-bot" (768-dim, cosine similarity)
-```
+<p align="center">
+  <img src="images/pipeline.png" alt="Sezzle AI Customer Support Agent" width="1000"/>
+</p>
 
 Run via `store_index.py` — a one-time (or re-runnable) script that builds and populates the Pinecone index.
 
