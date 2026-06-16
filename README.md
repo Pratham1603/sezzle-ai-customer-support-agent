@@ -4,7 +4,7 @@
 
 ---
 
-<h3 align="center">Unofficial Sezzle AI Customer Support Chatbot & Agent</h3>
+<h2 align="center">Unofficial Sezzle AI Customer Support Chatbot & Agent</h2>
 
 ---
 
@@ -65,13 +65,11 @@ The system is wrapped in a **FastAPI** backend, a polished **React + Framer Moti
 
 | Component | Link |
 |---|---|
-| Live Chat Widget (Frontend) | _Add deployed Vercel/Netlify link here_ |
+| Live Chat Widget (Frontend) | `https://sezzle-ai-customer-support-agent.vercel.app/` |
 | Backend API (FastAPI on Hugging Face Spaces) | `https://harerpratham-sezzle-ai-customer-support-agent.hf.space` |
-| Analytics Dashboard (Streamlit) | _Add deployed Streamlit/HF Spaces link here_ |
+| Analytics Dashboard (Streamlit) | `https://huggingface.co/spaces/HarerPratham/sezzle-ai-dashboard` |
 
 ### Video Demo
-
-> _Embed or link a walkthrough video here (YouTube / Loom / GitHub asset)._
 
 <div align="center">
 
@@ -337,19 +335,6 @@ curl -X POST http://localhost:8000/get \
 
 ---
 
-## Roadmap
-
-- [ ] Replace mock in-memory order database with a real database (PostgreSQL / Supabase)
-- [ ] Add authentication for order-related actions
-- [ ] Multi-turn conversation memory / context retention
-- [ ] Streaming responses in the chat widget
-- [ ] Add evaluation suite (RAGAS) for retrieval & answer quality
-- [ ] Expand intent taxonomy and add a fine-tuned intent classifier
-- [ ] Voice input/output integration (currently UI placeholder)
-- [ ] CI/CD pipeline for automated testing & deployment
-
----
-
 ## Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -371,14 +356,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ## Author
 
 **Pratham Harer**
-
-- GitHub: [@Pratham1603](https://github.com/Pratham1603)
-- Medium: [@prathamharer1603](https://medium.com/@prathamharer1603)
-- X (Twitter): [@PROSEED_AI](https://x.com/PROSEED_AI)
-- Kaggle: [prathamharer](https://www.kaggle.com/prathamharer)
-- Portfolio: [pratham-harer.vercel.app](https://pratham-harer.vercel.app)
-
----
 
 <div align="center">
 
